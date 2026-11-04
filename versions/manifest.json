@@ -97,5 +97,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v15.zip",
     "archive_sha256": "fbfb06df43255d47fcee469c23b061af0f9de7fe386abe7b4873db4a5b7c037d"
+  },
+  {
+    "version": "v16",
+    "commit": "9b21c40791cb3602ecca9dfcfe040c1b2d9df4ec",
+    "description": "Появление рядов снизу вверх без очереди слева направо, плавный наезд, заметный туман и пульсирующий свет, единый шрифт.",
+    "index_sha256": "51a4c15f5ef583ae36cbaf37c23c6bd91715220515c501355d42963b8aeb6a0f",
+    "source_included": true,
+    "archive": "AVTOLAB77-v16.zip",
+    "archive_sha256": "a8c8352cbf351cf7cccee9dcb1018f67d8d23b0a9db51bb19134e6e800380420"
   }
 ]
