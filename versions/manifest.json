@@ -43,5 +43,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v9.zip",
     "archive_sha256": "e4d99cf07b67a8a53ff6b8afaa0195cddcce2989761a222ce649519edc8f8263"
+  },
+  {
+    "version": "v10",
+    "commit": "0aea7a46787540d319309cd39ec4bddca300078a",
+    "description": "Открытый мокрый пол первого экрана; асфальт, отражения и свет карусели; Porsche и Audi в проектах; компактная студия с камнем и красными разделителями.",
+    "index_sha256": "c2bedf59f528ab37cad74e0d26d9ad73b1538e8413a90bc651a34bbd90fdd35e",
+    "source_included": true,
+    "archive": "AVTOLAB77-v10.zip",
+    "archive_sha256": "d662ceb8e144215945d1ffdb7b137ec4a7fbdec7fb36b01e295d337eb8248c3f"
   }
 ]
