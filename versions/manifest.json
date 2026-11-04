@@ -88,5 +88,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v14.zip",
     "archive_sha256": "889db4407563e266d368d76b8094b7b11c7aab0b28fbb76927607224df42fec0"
+  },
+  {
+    "version": "v15",
+    "commit": "be3ae4a66b61f5be1581587fff53264ee857c7db",
+    "description": "Плавное завершение заставки, заметный туман, мягкий свет трёх полос, объём автомобилей и короткий призыв к записи.",
+    "index_sha256": "d06eee8a3d6e18a4db935111119bbf06c8f51c13c39b600c38fb5c35e6ef6391",
+    "source_included": true,
+    "archive": "AVTOLAB77-v15.zip",
+    "archive_sha256": "fbfb06df43255d47fcee469c23b061af0f9de7fe386abe7b4873db4a5b7c037d"
   }
 ]
