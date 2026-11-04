@@ -61,5 +61,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v11.zip",
     "archive_sha256": "fce40d4765088193c649301308bd83c62f9953c869af51fcbb6b488e58de756d"
+  },
+  {
+    "version": "v12",
+    "commit": "8bcb4b8e52dce32f7dc5af3b3f961ec8350014e4",
+    "description": "Заставка на чёрном фоне и въезд в сцену; мягкий заголовок без дальнего логотипа; переключение машин без свободного перетаскивания; четыре показателя и компактная консультация по центру.",
+    "index_sha256": "ecf787da337c4282695cadb97b15209f77e786bf3cdc7b57b10299eb796d97eb",
+    "source_included": true,
+    "archive": "AVTOLAB77-v12.zip",
+    "archive_sha256": "f8e8444ae9c5af71cc2062517bac2851edddbfbf971962890a9d6f377dc4277b"
   }
 ]
