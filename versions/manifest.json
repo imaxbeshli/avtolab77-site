@@ -70,5 +70,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v12.zip",
     "archive_sha256": "f8e8444ae9c5af71cc2062517bac2851edddbfbf971962890a9d6f377dc4277b"
+  },
+  {
+    "version": "v13",
+    "commit": "8a5a59bd89c4a89bdb68650e638d525d7abdaf46",
+    "description": "Медленное вступление: секунда появления, секунда чтения, секунда затухания; мягкое открытие сайта с приближением.",
+    "index_sha256": "8896765ccee2e462ea19eee53c83c7782de7c024861f0c312e87260e8e10c14e",
+    "source_included": true,
+    "archive": "AVTOLAB77-v13.zip",
+    "archive_sha256": "0802f1e97ae741600c3d7e98a789ba555a96c66f258c8b7382c217ef87466dbf"
   }
 ]
