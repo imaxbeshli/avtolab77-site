@@ -79,5 +79,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v13.zip",
     "archive_sha256": "0802f1e97ae741600c3d7e98a789ba555a96c66f258c8b7382c217ef87466dbf"
+  },
+  {
+    "version": "v14",
+    "commit": "5e78949d653b33827933ffb25695229891bdd6b5",
+    "description": "Плавная заставка с защитой от пропуска кадров, последовательное появление элементов, туман и свет Three.js.",
+    "index_sha256": "07c413a268ca86817b80fe2bb8f873779c769d89ab03fb4b3b9d11fc1c16a8fc",
+    "source_included": true,
+    "archive": "AVTOLAB77-v14.zip",
+    "archive_sha256": "889db4407563e266d368d76b8094b7b11c7aab0b28fbb76927607224df42fec0"
   }
 ]
