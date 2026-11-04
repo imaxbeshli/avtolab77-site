@@ -115,5 +115,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v17.zip",
     "archive_sha256": "6b92620e681ce56fcefe4971e508bf190287622ba43ef395fadcd7c540739191"
+  },
+  {
+    "version": "v18",
+    "commit": "a99cd0a566abd93da3207151a3c26e21b09a53b3",
+    "description": "Плавное небольшое увеличение изображений и иконок при наведении, на базе фотографической v16.",
+    "index_sha256": "1950ab430f6fa326434420d87adc73784695f12f68a2a2dc677ec71a51d7ad0d",
+    "source_included": true,
+    "archive": "AVTOLAB77-v18.zip",
+    "archive_sha256": "449555bbd3101bef28efe68dc7e7643e8046f794a3f094c671494f2c84be3a60"
   }
 ]
