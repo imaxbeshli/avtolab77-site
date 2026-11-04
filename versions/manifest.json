@@ -6,7 +6,9 @@
     "index_sha256": "b272b49a3276bf131630737e3c7fc89e87a7f19b31d3de1ced222a34c2f61667",
     "source_included": false,
     "archive": "AVTOLAB77-v5.zip",
-    "archive_sha256": "68a19dc4ac88d845fe28c09da29395cf57b3aec92f4d43ff004bcdddc384773e"
+    "archive_sha256": "68a19dc4ac88d845fe28c09da29395cf57b3aec92f4d43ff004bcdddc384773e",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/dfd535a1bfd280bf44dcb5b25a2582248e1b448f/versions/AVTOLAB77-v5.zip",
+    "storage_commit": "dfd535a1bfd280bf44dcb5b25a2582248e1b448f"
   },
   {
     "version": "v6",
@@ -15,7 +17,9 @@
     "index_sha256": "9f42f05a367784bba890e9c127567f709b7e958654ba4a7b45e8e6135ed6bd12",
     "source_included": false,
     "archive": "AVTOLAB77-v6.zip",
-    "archive_sha256": "f2e66fa0619c9550a33f6c4f2022de9c048a6c38fba08192acfe114dbc312c6a"
+    "archive_sha256": "f2e66fa0619c9550a33f6c4f2022de9c048a6c38fba08192acfe114dbc312c6a",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/dfd535a1bfd280bf44dcb5b25a2582248e1b448f/versions/AVTOLAB77-v6.zip",
+    "storage_commit": "dfd535a1bfd280bf44dcb5b25a2582248e1b448f"
   },
   {
     "version": "v7",
@@ -24,7 +28,9 @@
     "index_sha256": "46a524b8170fa42bdca7a7442931e6821726c1bac8c0a25fea69d6e0ba4bb6aa",
     "source_included": false,
     "archive": "AVTOLAB77-v7.zip",
-    "archive_sha256": "10867650c0b9e6011c5c8e3b3dfec6522610dae520eaeeb818496ef4797b1eb9"
+    "archive_sha256": "10867650c0b9e6011c5c8e3b3dfec6522610dae520eaeeb818496ef4797b1eb9",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/dfd535a1bfd280bf44dcb5b25a2582248e1b448f/versions/AVTOLAB77-v7.zip",
+    "storage_commit": "dfd535a1bfd280bf44dcb5b25a2582248e1b448f"
   },
   {
     "version": "v8",
@@ -33,7 +39,9 @@
     "index_sha256": "fe73298510832b0a540bcba6a8809b7bc1ea8437496787208ace346f65a121d6",
     "source_included": true,
     "archive": "AVTOLAB77-v8.zip",
-    "archive_sha256": "694507b3fa21d4492d7a283c503697ba42ad8624c92ae1dca6134efc4bc8f583"
+    "archive_sha256": "694507b3fa21d4492d7a283c503697ba42ad8624c92ae1dca6134efc4bc8f583",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/dfd535a1bfd280bf44dcb5b25a2582248e1b448f/versions/AVTOLAB77-v8.zip",
+    "storage_commit": "dfd535a1bfd280bf44dcb5b25a2582248e1b448f"
   },
   {
     "version": "v9",
@@ -42,7 +50,9 @@
     "index_sha256": "62f478fd0aa3e86e3756e0771608a0b7d50ba9084a094d282040bfb0b97702d5",
     "source_included": true,
     "archive": "AVTOLAB77-v9.zip",
-    "archive_sha256": "e4d99cf07b67a8a53ff6b8afaa0195cddcce2989761a222ce649519edc8f8263"
+    "archive_sha256": "e4d99cf07b67a8a53ff6b8afaa0195cddcce2989761a222ce649519edc8f8263",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/dfd535a1bfd280bf44dcb5b25a2582248e1b448f/versions/AVTOLAB77-v9.zip",
+    "storage_commit": "dfd535a1bfd280bf44dcb5b25a2582248e1b448f"
   },
   {
     "version": "v10",
@@ -51,7 +61,9 @@
     "index_sha256": "c2bedf59f528ab37cad74e0d26d9ad73b1538e8413a90bc651a34bbd90fdd35e",
     "source_included": true,
     "archive": "AVTOLAB77-v10.zip",
-    "archive_sha256": "d662ceb8e144215945d1ffdb7b137ec4a7fbdec7fb36b01e295d337eb8248c3f"
+    "archive_sha256": "d662ceb8e144215945d1ffdb7b137ec4a7fbdec7fb36b01e295d337eb8248c3f",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/dfd535a1bfd280bf44dcb5b25a2582248e1b448f/versions/AVTOLAB77-v10.zip",
+    "storage_commit": "dfd535a1bfd280bf44dcb5b25a2582248e1b448f"
   },
   {
     "version": "v11",
@@ -60,7 +72,9 @@
     "index_sha256": "2b7df0c4a94804a5ed3e3e983dbbb4d7d863902b9242c7d98e95b11d104ddded",
     "source_included": true,
     "archive": "AVTOLAB77-v11.zip",
-    "archive_sha256": "fce40d4765088193c649301308bd83c62f9953c869af51fcbb6b488e58de756d"
+    "archive_sha256": "fce40d4765088193c649301308bd83c62f9953c869af51fcbb6b488e58de756d",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/dfd535a1bfd280bf44dcb5b25a2582248e1b448f/versions/AVTOLAB77-v11.zip",
+    "storage_commit": "dfd535a1bfd280bf44dcb5b25a2582248e1b448f"
   },
   {
     "version": "v12",
@@ -69,7 +83,9 @@
     "index_sha256": "ecf787da337c4282695cadb97b15209f77e786bf3cdc7b57b10299eb796d97eb",
     "source_included": true,
     "archive": "AVTOLAB77-v12.zip",
-    "archive_sha256": "f8e8444ae9c5af71cc2062517bac2851edddbfbf971962890a9d6f377dc4277b"
+    "archive_sha256": "f8e8444ae9c5af71cc2062517bac2851edddbfbf971962890a9d6f377dc4277b",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/dfd535a1bfd280bf44dcb5b25a2582248e1b448f/versions/AVTOLAB77-v12.zip",
+    "storage_commit": "dfd535a1bfd280bf44dcb5b25a2582248e1b448f"
   },
   {
     "version": "v13",
@@ -78,7 +94,9 @@
     "index_sha256": "8896765ccee2e462ea19eee53c83c7782de7c024861f0c312e87260e8e10c14e",
     "source_included": true,
     "archive": "AVTOLAB77-v13.zip",
-    "archive_sha256": "0802f1e97ae741600c3d7e98a789ba555a96c66f258c8b7382c217ef87466dbf"
+    "archive_sha256": "0802f1e97ae741600c3d7e98a789ba555a96c66f258c8b7382c217ef87466dbf",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/dfd535a1bfd280bf44dcb5b25a2582248e1b448f/versions/AVTOLAB77-v13.zip",
+    "storage_commit": "dfd535a1bfd280bf44dcb5b25a2582248e1b448f"
   },
   {
     "version": "v14",
@@ -87,7 +105,9 @@
     "index_sha256": "07c413a268ca86817b80fe2bb8f873779c769d89ab03fb4b3b9d11fc1c16a8fc",
     "source_included": true,
     "archive": "AVTOLAB77-v14.zip",
-    "archive_sha256": "889db4407563e266d368d76b8094b7b11c7aab0b28fbb76927607224df42fec0"
+    "archive_sha256": "889db4407563e266d368d76b8094b7b11c7aab0b28fbb76927607224df42fec0",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/dfd535a1bfd280bf44dcb5b25a2582248e1b448f/versions/AVTOLAB77-v14.zip",
+    "storage_commit": "dfd535a1bfd280bf44dcb5b25a2582248e1b448f"
   },
   {
     "version": "v15",
@@ -96,7 +116,9 @@
     "index_sha256": "d06eee8a3d6e18a4db935111119bbf06c8f51c13c39b600c38fb5c35e6ef6391",
     "source_included": true,
     "archive": "AVTOLAB77-v15.zip",
-    "archive_sha256": "fbfb06df43255d47fcee469c23b061af0f9de7fe386abe7b4873db4a5b7c037d"
+    "archive_sha256": "fbfb06df43255d47fcee469c23b061af0f9de7fe386abe7b4873db4a5b7c037d",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/dfd535a1bfd280bf44dcb5b25a2582248e1b448f/versions/AVTOLAB77-v15.zip",
+    "storage_commit": "dfd535a1bfd280bf44dcb5b25a2582248e1b448f"
   },
   {
     "version": "v16",
@@ -105,7 +127,9 @@
     "index_sha256": "51a4c15f5ef583ae36cbaf37c23c6bd91715220515c501355d42963b8aeb6a0f",
     "source_included": true,
     "archive": "AVTOLAB77-v16.zip",
-    "archive_sha256": "a8c8352cbf351cf7cccee9dcb1018f67d8d23b0a9db51bb19134e6e800380420"
+    "archive_sha256": "a8c8352cbf351cf7cccee9dcb1018f67d8d23b0a9db51bb19134e6e800380420",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/dfd535a1bfd280bf44dcb5b25a2582248e1b448f/versions/AVTOLAB77-v16.zip",
+    "storage_commit": "dfd535a1bfd280bf44dcb5b25a2582248e1b448f"
   },
   {
     "version": "v17",
@@ -114,7 +138,9 @@
     "index_sha256": "70e965e3d147997cf1085867b31f9fcf0d97152b878cf2a76d90050308812769",
     "source_included": true,
     "archive": "AVTOLAB77-v17.zip",
-    "archive_sha256": "6b92620e681ce56fcefe4971e508bf190287622ba43ef395fadcd7c540739191"
+    "archive_sha256": "6b92620e681ce56fcefe4971e508bf190287622ba43ef395fadcd7c540739191",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/dfd535a1bfd280bf44dcb5b25a2582248e1b448f/versions/AVTOLAB77-v17.zip",
+    "storage_commit": "dfd535a1bfd280bf44dcb5b25a2582248e1b448f"
   },
   {
     "version": "v18",
@@ -123,6 +149,8 @@
     "index_sha256": "1950ab430f6fa326434420d87adc73784695f12f68a2a2dc677ec71a51d7ad0d",
     "source_included": true,
     "archive": "AVTOLAB77-v18.zip",
-    "archive_sha256": "449555bbd3101bef28efe68dc7e7643e8046f794a3f094c671494f2c84be3a60"
+    "archive_sha256": "449555bbd3101bef28efe68dc7e7643e8046f794a3f094c671494f2c84be3a60",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/dfd535a1bfd280bf44dcb5b25a2582248e1b448f/versions/AVTOLAB77-v18.zip",
+    "storage_commit": "dfd535a1bfd280bf44dcb5b25a2582248e1b448f"
   }
 ]
