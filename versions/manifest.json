@@ -34,5 +34,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v8.zip",
     "archive_sha256": "694507b3fa21d4492d7a283c503697ba42ad8624c92ae1dca6134efc4bc8f583"
+  },
+  {
+    "version": "v9",
+    "commit": "3722cdd6de9969e4759bb530634c7d5db6e16d33",
+    "description": "Rolls-Royce слева, ZEEKR справа в общей сцене. Два крупных раздела: Автостайлинг и детейлинг; Русификация и цифровые решения.",
+    "index_sha256": "62f478fd0aa3e86e3756e0771608a0b7d50ba9084a094d282040bfb0b97702d5",
+    "source_included": true,
+    "archive": "AVTOLAB77-v9.zip",
+    "archive_sha256": "e4d99cf07b67a8a53ff6b8afaa0195cddcce2989761a222ce649519edc8f8263"
   }
 ]
