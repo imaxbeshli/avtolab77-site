@@ -1,0 +1,38 @@
+[
+  {
+    "version": "v5",
+    "commit": "a9ee5b4785050c76df056450c08f30abd2b4297f",
+    "description": "Первая опубликованная версия. Центрированные заголовки разделов, новые изображения.",
+    "index_sha256": "b272b49a3276bf131630737e3c7fc89e87a7f19b31d3de1ced222a34c2f61667",
+    "source_included": false,
+    "archive": "AVTOLAB77-v5.zip",
+    "archive_sha256": "68a19dc4ac88d845fe28c09da29395cf57b3aec92f4d43ff004bcdddc384773e"
+  },
+  {
+    "version": "v6",
+    "commit": "a0f7ef11b5373ab8f000c724749a28a1f45a66a4",
+    "description": "Туман, свечение ламп, вступление, анимации появления и стеклянные плашки.",
+    "index_sha256": "9f42f05a367784bba890e9c127567f709b7e958654ba4a7b45e8e6135ed6bd12",
+    "source_included": false,
+    "archive": "AVTOLAB77-v6.zip",
+    "archive_sha256": "f2e66fa0619c9550a33f6c4f2022de9c048a6c38fba08192acfe114dbc312c6a"
+  },
+  {
+    "version": "v7",
+    "commit": "9d2bfcc4125df0c370e6fdeddd28ba5ba81a55e1",
+    "description": "Жирный главный заголовок и исправление подписей фактов. Промежуточная сборка; отдельная публикация была отменена.",
+    "index_sha256": "46a524b8170fa42bdca7a7442931e6821726c1bac8c0a25fea69d6e0ba4bb6aa",
+    "source_included": false,
+    "archive": "AVTOLAB77-v7.zip",
+    "archive_sha256": "10867650c0b9e6011c5c8e3b3dfec6522610dae520eaeeb818496ef4797b1eb9"
+  },
+  {
+    "version": "v8",
+    "commit": "26ac93f713a360ae12bc3b3a38659a3c2cd64222",
+    "description": "Текущая версия: без плашек под названиями, главный заголовок по центру страницы.",
+    "index_sha256": "fe73298510832b0a540bcba6a8809b7bc1ea8437496787208ace346f65a121d6",
+    "source_included": true,
+    "archive": "AVTOLAB77-v8.zip",
+    "archive_sha256": "694507b3fa21d4492d7a283c503697ba42ad8624c92ae1dca6134efc4bc8f583"
+  }
+]
