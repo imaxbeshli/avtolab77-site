@@ -52,5 +52,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v10.zip",
     "archive_sha256": "d662ceb8e144215945d1ffdb7b137ec4a7fbdec7fb36b01e295d337eb8248c3f"
+  },
+  {
+    "version": "v11",
+    "commit": "25e7dd9cd55275c296efc1c46bd5c7ea5f8ee063",
+    "description": "Мягкие края фона карусели, дальний логотип, новые цифровой и стекольный кадры, порядок услуг и последовательное появление без конфликта с наведением.",
+    "index_sha256": "2b7df0c4a94804a5ed3e3e983dbbb4d7d863902b9242c7d98e95b11d104ddded",
+    "source_included": true,
+    "archive": "AVTOLAB77-v11.zip",
+    "archive_sha256": "fce40d4765088193c649301308bd83c62f9953c869af51fcbb6b488e58de756d"
   }
 ]
