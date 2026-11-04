@@ -106,5 +106,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v16.zip",
     "archive_sha256": "a8c8352cbf351cf7cccee9dcb1018f67d8d23b0a9db51bb19134e6e800380420"
+  },
+  {
+    "version": "v17",
+    "commit": "af34ada40f679af2d374dd300258f77afe377dae",
+    "description": "Настоящая 3D-студия: упрощённые авторские модели SUV, объёмный туман, освещение и отражающий пол.",
+    "index_sha256": "70e965e3d147997cf1085867b31f9fcf0d97152b878cf2a76d90050308812769",
+    "source_included": true,
+    "archive": "AVTOLAB77-v17.zip",
+    "archive_sha256": "6b92620e681ce56fcefe4971e508bf190287622ba43ef395fadcd7c540739191"
   }
 ]
