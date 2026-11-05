@@ -493,5 +493,16 @@
     "archive_sha256": "1ade1d39038fbbce6ca7c3dd5c051a0c6b4cc452b61101553af6ca40147ebf99",
     "storage_commit": "31d6f48c616dbcc226a4757faceb9eac07e902cb",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/31d6f48c616dbcc226a4757faceb9eac07e902cb/versions/AVTOLAB77-v49.zip"
+  },
+  {
+    "version": "v50",
+    "commit": "ef85096675d5f6ba6dc91cdd67198ccd2d904bbf",
+    "description": "Меньший мобильный заголовок автостайлинга; BMW при загрузке глянцевая, переход начинается после прокрутки",
+    "index_sha256": "ab36649f9067cf8d08091e7c2b32e806987d4b34f336ecdfecca835269d9001d",
+    "source_included": true,
+    "archive": "AVTOLAB77-v50.zip",
+    "archive_sha256": "b8249865574e3bb6c1a931ce91924271ec9d80fbabf28c619296d5c8872eea2a",
+    "storage_commit": "31c14d1ba09e59aecbc7eae6a5f0b069a4d03ae4",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/31c14d1ba09e59aecbc7eae6a5f0b069a4d03ae4/versions/AVTOLAB77-v50.zip"
   }
 ]
