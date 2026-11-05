@@ -339,5 +339,16 @@
     "archive_sha256": "a6e5ce1d304281085b1a8642030f61e0d597a1825303e1f65496b30199002f21",
     "storage_commit": "8f296658a57ec50aeb5c0c09ab0e7abd15e37095",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/8f296658a57ec50aeb5c0c09ab0e7abd15e37095/versions/AVTOLAB77-v35.zip"
+  },
+  {
+    "version": "v36",
+    "commit": "5d59dd719112480423d6c5a776a0e9812dd1ffce",
+    "description": "Новая студийная сцена, шрифт Unbounded, многослойное свечение 77 и дымка перед цифрами без контурных масок машин.",
+    "index_sha256": "7f308fa8b4f5f4aa9712caaf5f56116da34ffaaac72d788b85052c8214cbddc7",
+    "source_included": true,
+    "archive": "AVTOLAB77-v36.zip",
+    "archive_sha256": "074edba25941e073e54c4426cf4d3d35411602bd6bbb06eeb444940240df5caa",
+    "storage_commit": "e0aab9d92e0b3496c34ca6b746442757db356b79",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/e0aab9d92e0b3496c34ca6b746442757db356b79/versions/AVTOLAB77-v36.zip"
   }
 ]
