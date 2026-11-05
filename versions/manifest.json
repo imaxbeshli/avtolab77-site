@@ -385,5 +385,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v47.zip",
     "archive_sha256": "785bcb35bd5d09c0447e0040130a8c8a568702ba77e3bed5f1a2976b7f035e16"
+  },
+  {
+    "version": "v48",
+    "commit": "2d0ebf4fea5fbc176e911a98d9deb7be8ed3ea7d",
+    "description": "Надпись LAB в шапке немного ярче, бордовый оттенок сохранён",
+    "index_sha256": "c7e2af9cb96e3cb64d457250985ef544655da0d768a8b7754a0649f9c81c1849",
+    "source_included": true,
+    "archive": "AVTOLAB77-v48.zip",
+    "archive_sha256": "301d01b0846b6c8b4a2b26216a804eb9c490b737ffc07a034d3ecd97b3b268b5"
   }
 ]
