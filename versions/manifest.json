@@ -358,5 +358,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v44.zip",
     "archive_sha256": "4e7f53e6e9b1b5fe9098244c7968be9155bb9261c39e22f1197bb7439d497064"
+  },
+  {
+    "version": "v45",
+    "commit": "2b69f7bd5dcc721085064fae8b75f025ce2b65ca",
+    "description": "Главный заголовок обычным текстом: Unbounded и Manrope, адаптивный размер и плавное появление.",
+    "index_sha256": "876985f8814dd3a7b4b4cfe03edd7b161127faa6dd8f5304995d5581522ea486",
+    "source_included": true,
+    "archive": "AVTOLAB77-v45.zip",
+    "archive_sha256": "95529386ba792ad3da8c6ce06c075b864c33fa6a0324c16fc055330c2b26f232"
   }
 ]
