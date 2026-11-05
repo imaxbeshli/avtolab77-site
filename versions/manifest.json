@@ -548,5 +548,16 @@
     "archive_sha256": "0c3e203134869ad6efa7f4ee0e4dad872f49665bbaff48f5150fbc9e0d272dc1",
     "storage_commit": "e9f58806344df2626f5abf35aad75c8d6cf1df6c",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/e9f58806344df2626f5abf35aad75c8d6cf1df6c/versions/AVTOLAB77-v54.zip"
+  },
+  {
+    "version": "v55",
+    "commit": "c046dffce0d3d47a1328ffbefd9070a792193497",
+    "description": "Единый адаптивный размер мобильных заголовков автостайлинга, цифровых решений и проектов; шрифт и компьютерная версия сохранены.",
+    "index_sha256": "2868459293381d7a509ceac4875dac6b3ddb8fa3e7aae7e2cb5d8b03b21d2dcf",
+    "source_included": true,
+    "archive": "AVTOLAB77-v55.zip",
+    "archive_sha256": "a24c9b4a7e6da16747b79018fbcf7996e600f27dfb1e1e1f745aaab4cb343b27",
+    "storage_commit": "7fc8d5054635d4333e2005f6552cf25a54743591",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/7fc8d5054635d4333e2005f6552cf25a54743591/versions/AVTOLAB77-v55.zip"
   }
 ]
