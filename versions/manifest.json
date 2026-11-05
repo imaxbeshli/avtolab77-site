@@ -313,5 +313,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v39.zip",
     "archive_sha256": "a229f862bb285a696f54b1663dc50dac4ff16fa30b1aedc9695a51d0f1a96170"
+  },
+  {
+    "version": "v40",
+    "commit": "f8a84be50c5508b3d37f4dd11f359f6698c66da9",
+    "description": "Возвращена композиция референса: прежние ракурсы и масштаб машин, фотографические тени и отражения, отдельная живая атмосфера",
+    "index_sha256": "ca82496d7778ce139b736c339f24cfa78fab929e25581d99013ce7b0c05662f0",
+    "source_included": true,
+    "archive": "AVTOLAB77-v40.zip",
+    "archive_sha256": "aa43f70823d26aac48c7353ecbb5651a1f5cedf1d2a6cae9846d871f2b77adcd"
   }
 ]
