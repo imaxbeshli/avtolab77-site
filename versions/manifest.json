@@ -124,5 +124,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v18.zip",
     "archive_sha256": "449555bbd3101bef28efe68dc7e7643e8046f794a3f094c671494f2c84be3a60"
+  },
+  {
+    "version": "v19",
+    "commit": "2cd4bd50f88014a25a733e2a7d5d78624b34bd17",
+    "description": "Мягкая смена автомобилей, одинаковые полупрозрачные кнопки, заголовок ближе к машинам и спокойный туман со светом.",
+    "index_sha256": "d4958d5533bf9ef78f11a1a6a03c8c3a79799f0bd263b9ff5c6ae88bd933858d",
+    "source_included": true,
+    "archive": "AVTOLAB77-v19.zip",
+    "archive_sha256": "7cb82e33e9bb16de23708263942c36995eba6d395f8de45f77a1786460db448a"
   }
 ]
