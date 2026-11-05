@@ -304,5 +304,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v38.zip",
     "archive_sha256": "54a0582bd756924a44ea383fe473d1a5ade16d1e612c54ef04bbf1e0e98e3cf3"
+  },
+  {
+    "version": "v39",
+    "commit": "955625c4fcc6dc5ea00eb85effe2df84289326ac",
+    "description": "Новая WebGL-сцена: чистый фон, отдельные Rolls-Royce и ZEEKR, объёмные 77, процедурный туман, свечение и отражения",
+    "index_sha256": "8cd3bffb080b80c3d459c7ff1f0339e760949669e29baae8e8f531010f2ceb37",
+    "source_included": true,
+    "archive": "AVTOLAB77-v39.zip",
+    "archive_sha256": "a229f862bb285a696f54b1663dc50dac4ff16fa30b1aedc9695a51d0f1a96170"
   }
 ]
