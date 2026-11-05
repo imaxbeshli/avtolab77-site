@@ -328,5 +328,16 @@
     "archive_sha256": "22c48015237132255615246606ad53477ad4372f5f1f35fb66272c3300c2cb92",
     "storage_commit": "cc80f146c212d257a9111d7589e178ce81db8215",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/cc80f146c212d257a9111d7589e178ce81db8215/versions/AVTOLAB77-v34.zip"
+  },
+  {
+    "version": "v35",
+    "commit": "7e4b5542b4025d6cc87ca8a5a81ef832eb4c8391",
+    "description": "Широкий серебристый заголовок, тонкая вторая строка, контурные 77 с мягким свечением и медленный туман позади автомобилей.",
+    "index_sha256": "879e5148eea25ba3978460141696bd6d9b2a8acbf6c0cb2a6d1cbc15d669c32c",
+    "source_included": true,
+    "archive": "AVTOLAB77-v35.zip",
+    "archive_sha256": "a6e5ce1d304281085b1a8642030f61e0d597a1825303e1f65496b30199002f21",
+    "storage_commit": "8f296658a57ec50aeb5c0c09ab0e7abd15e37095",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/8f296658a57ec50aeb5c0c09ab0e7abd15e37095/versions/AVTOLAB77-v35.zip"
   }
 ]
