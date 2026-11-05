@@ -457,5 +457,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v55.zip",
     "archive_sha256": "a24c9b4a7e6da16747b79018fbcf7996e600f27dfb1e1e1f745aaab4cb343b27"
+  },
+  {
+    "version": "v56",
+    "commit": "c6b3908e2a5c36e1158aaa40b93bb66752497174",
+    "description": "Диагностика анимаций: оптимизированы световые слои главной сцены, устранён сдвиг прогресса русификации при изменении высоты мобильного окна. Оформление сохранено.",
+    "index_sha256": "3101989e17da47c6ea4c69f86cea023c847b40ccda9dd9167fb4ccdbdbe81952",
+    "source_included": true,
+    "archive": "AVTOLAB77-v56.zip",
+    "archive_sha256": "c54ec0af2b4a59441d634da8f33379a4ff6d249f1516804bd8184d356001095a"
   }
 ]
