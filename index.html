@@ -621,10 +621,10 @@ html{scrollbar-gutter:stable both-edges}
 .home-scene .projects{margin-top:100px;margin-bottom:0}
 .projects .section-head{margin-bottom:30px}
 .projects-rail .project-card{height:190px;flex:0 0 calc((100% - 48px)/4);min-width:245px;border-color:#dce2e420;border-radius:7px;box-shadow:none;background:transparent;scroll-snap-align:none}
-.home-scene .studio-section{margin-top:80px;padding:12px 0 70px;background:transparent}
-.home-scene .studio-section:before,.home-scene .studio-section:after,.home-scene .studio:before{display:none}
-.home-scene .studio{padding:12px 0 32px}
-.home-scene .studio-facts .fact:before{background:linear-gradient(transparent,#bfc8d126,transparent)}
+/* Revision 23: restore the v21 facts treatment, feathering only its surroundings. */
+.home-scene .studio-section{margin-top:80px;padding:40px 0 34px;background:transparent}
+.home-scene .studio-section:before{inset:-80px 0 0;background:radial-gradient(ellipse at 50% 28%,#c5ccd126,transparent 68%);mask-image:linear-gradient(transparent,#000 24%,#000 80%,transparent);-webkit-mask-image:linear-gradient(transparent,#000 24%,#000 80%,transparent)}
+.home-scene .studio-section:after{inset:-50px 0 0;mask-image:linear-gradient(transparent,#000 35%,#000 78%,transparent);-webkit-mask-image:linear-gradient(transparent,#000 35%,#000 78%,transparent)}
 .home-scene .consult{margin:42px auto 0;padding:30px 16px;width:min(620px,100%);border:0;border-radius:0;background:none;box-shadow:none;backdrop-filter:none;-webkit-backdrop-filter:none}
 /* Scale the photograph itself, inside its fixed clipping box. Labels never move. */
 .direction>.art,.service-card>.art,.project-card>.art,.catalog-card>.art{transform:none!important;transition:none;will-change:auto}
@@ -661,7 +661,7 @@ html{scrollbar-gutter:stable both-edges}
  .projects .section-head{margin-bottom:22px}
  .projects-rail{margin-left:-8px;margin-right:-8px}
  .projects-rail .project-card{height:180px;min-width:0;flex-basis:83%;border-radius:6px}
- .home-scene .studio-section{margin-top:46px;padding-bottom:38px}
+ .home-scene .studio-section{margin-top:46px;padding:30px 0}
  .home-scene .consult{margin-top:20px;padding:20px 0}
 }
 @media(max-width:360px){.styling-panel .section-head h2,.digital-panel .section-head h2{font-size:24px}.styling-scene{height:240px}.styling-panel .service-card{flex-basis:166px;height:180px}}
