@@ -317,5 +317,16 @@
     "archive_sha256": "7a4fab896b0ee526397ebf9f8763cadee1db8743725830668ab91020c13c5219",
     "storage_commit": "53272b52e07a68071b7d6d1cd9a1f49d333cdd73",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/53272b52e07a68071b7d6d1cd9a1f49d333cdd73/versions/AVTOLAB77-v33.zip"
+  },
+  {
+    "version": "v34",
+    "commit": "6a4138115df1c3b2bc4fe06662b8af1eb59917b0",
+    "description": "Мягкие края и адаптивный масштаб широкоформатных сцен. Закрепление BMW и салона сохраняется на широких сенсорных компьютерах.",
+    "index_sha256": "7d86a6980d215476c94e469ba2dc44d06b96cbce93e1018a6f1aefb1de53ca32",
+    "source_included": true,
+    "archive": "AVTOLAB77-v34.zip",
+    "archive_sha256": "22c48015237132255615246606ad53477ad4372f5f1f35fb66272c3300c2cb92",
+    "storage_commit": "cc80f146c212d257a9111d7589e178ce81db8215",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/cc80f146c212d257a9111d7589e178ce81db8215/versions/AVTOLAB77-v34.zip"
   }
 ]
