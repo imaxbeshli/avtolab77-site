@@ -214,5 +214,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v28.zip",
     "archive_sha256": "32f7f65343b232f5bbc2c1c9f21b7bc95be10fc98d4e97d300ae554982f5446c"
+  },
+  {
+    "version": "v29",
+    "commit": "d7e51b486b6100d79f8117b4072b83ee98d88974",
+    "description": "Русификация планшета при прокрутке: плавное приближение и перевод китайских подписей на русский. Зеркало убрано.",
+    "index_sha256": "35d1bf9410c8098a07c4bb4235be81a8640247b76fe608a9dfd12484deffe558",
+    "source_included": true,
+    "archive": "AVTOLAB77-v29.zip",
+    "archive_sha256": "478e7369d25901d67cdf8d457f4e260d38b6ad3f12a3660bf2338336cefd4e4a"
   }
 ]
