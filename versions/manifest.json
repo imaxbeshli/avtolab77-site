@@ -223,5 +223,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v29.zip",
     "archive_sha256": "478e7369d25901d67cdf8d457f4e260d38b6ad3f12a3660bf2338336cefd4e4a"
+  },
+  {
+    "version": "v30",
+    "commit": "1087571030e85b9f1c169f897ae9f8d1c674aa53",
+    "description": "Последовательное преобразование китайских символов в русский текст. Убран отдельный фон выбора моделей и перекрытие салона.",
+    "index_sha256": "6dd82faa8b9c365a12e401ef8b4d7462d1f57380d7c3ca418da4fb2b63eea1b7",
+    "source_included": true,
+    "archive": "AVTOLAB77-v30.zip",
+    "archive_sha256": "74f0283448df415488165a08e99d361e1c43b6285d818e8f5e8ae2b2a17428f5"
   }
 ]
