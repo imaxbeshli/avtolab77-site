@@ -340,5 +340,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v42.zip",
     "archive_sha256": "c03e6b9c7bec8ea011347e247047dcb9c2f46f41ba6fd024304b0158c5465d53"
+  },
+  {
+    "version": "v43",
+    "commit": "b1708e64d9ea8adc0438f47cde43fccdc98c30e1",
+    "description": "Единое тёмное окружение, графитовый подиум BMW и мягкие переходы между сценами; существующие анимации сохранены.",
+    "index_sha256": "3d4287396e3b36534d668cd8463a05b96afe873a99d6c69bd70be9e27ce93581",
+    "source_included": true,
+    "archive": "AVTOLAB77-v43.zip",
+    "archive_sha256": "fb41388109f6ff8187cd84d94966bda33086493210113b8e6157745270be09ea"
   }
 ]
