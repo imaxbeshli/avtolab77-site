@@ -207,5 +207,16 @@
     "archive_sha256": "d1fa8c69c87814c2555b683d871b7cfb5dc7c667fe854cf461ec20f18fae0801",
     "storage_commit": "8d3054b41f3f4eaf2d1b1d1b7d4c7afaf5863e76",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/8d3054b41f3f4eaf2d1b1d1b7d4c7afaf5863e76/versions/AVTOLAB77-v23.zip"
+  },
+  {
+    "version": "v24",
+    "commit": "7ccf9f11bdade4a387ac1505e084494c2371370c",
+    "description": "Возвращена рамка консультации, матовое стекло цифровых карточек, единый шрифт преимуществ; колесо и вертикальный свайп прокручивают страницу без смены автомобилей.",
+    "index_sha256": "f653110b1534ee9b04aaf165b2234613ed1e5b2a63e736995a74018539baf21a",
+    "source_included": true,
+    "archive": "AVTOLAB77-v24.zip",
+    "archive_sha256": "9b06242b9cd8948531215392ad163aeba0f4767dc1ef7a9ad315eba6b99bd94e",
+    "storage_commit": "139afe7c73f41364ff0cd9b0906c53296972f035",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/139afe7c73f41364ff0cd9b0906c53296972f035/versions/AVTOLAB77-v24.zip"
   }
 ]
