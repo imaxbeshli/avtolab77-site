@@ -421,5 +421,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v51.zip",
     "archive_sha256": "38d7e617a05122b4b857660f43a0f590c68a0fdd7b52066237c2c4026c66601b"
+  },
+  {
+    "version": "v52",
+    "commit": "a06231772b19b872d6ea8077154d1cdf92a71a67",
+    "description": "Поочерёдное включение фар, единый цвет LAB, мобильные отступы и название Русификация и настройка",
+    "index_sha256": "348df81d9fba2872303b1d2ec4f3b9ab430ae5f9b7c7547bfbdde4fe763f3ad1",
+    "source_included": true,
+    "archive": "AVTOLAB77-v52.zip",
+    "archive_sha256": "19bf9655c4038746d798dba913f970ba507da16fae28a6e18f958205df3354b7"
   }
 ]
