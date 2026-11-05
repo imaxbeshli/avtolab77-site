@@ -142,5 +142,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v20.zip",
     "archive_sha256": "c2c565b0e8c0af6db16aa655b5b9f4a2d6b60fe02525fa0e6b7de7dcc42c0555"
+  },
+  {
+    "version": "v21",
+    "commit": "578a966569ab859cb128783159b988d792cf306b",
+    "description": "Два цельных раздела: автостайлинг с BMW и цифровые решения на мокром студийном полу. Все услуги и плавные анимации сохранены.",
+    "index_sha256": "29803d6f5bd7fec3d745a1ecf00cb1fbec631bc1927a690b2948ddb4eacc78d9",
+    "source_included": true,
+    "archive": "AVTOLAB77-v21.zip",
+    "archive_sha256": "63005358febbf461f63309f99dbe0f7b2bbda6b15b887d95f334583435d03bd3"
   }
 ]
