@@ -367,5 +367,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v45.zip",
     "archive_sha256": "95529386ba792ad3da8c6ce06c075b864c33fa6a0324c16fc055330c2b26f232"
+  },
+  {
+    "version": "v46",
+    "commit": "26e07d595f422f73f0cd281de8f382cc5add6c89",
+    "description": "Графитовый градиент и скалы внизу, окружение без фиксированной подложки, Unbounded в двух разделах, общие цвет и прозрачность, последовательное появление 800/150 мс и обновлённая первая сцена.",
+    "index_sha256": "9c37fe7b820d6b5fe8818a15c5bcf68dec5be87f8a593105abd3112b0240abac",
+    "source_included": true,
+    "archive": "AVTOLAB77-v46.zip",
+    "archive_sha256": "283b3595b6309fc54b0324b7fc26c240a5788e2cb12e93dd57d487c7033e0f66"
   }
 ]
