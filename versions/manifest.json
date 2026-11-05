@@ -160,5 +160,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v22.zip",
     "archive_sha256": "086185e8724c80c4efa3b22627b9d91ffe980b3a69a44ed3d516bb13e057b1dd"
+  },
+  {
+    "version": "v23",
+    "commit": "16493894c1f996e45c170767dbbcefb6a6f8a91f",
+    "description": "Возвращено оформление блока преимуществ из v21: фактура, подсветка и красные разделители; плавное соединение с общим фоном v22.",
+    "index_sha256": "f1810135cbbc7186c68ee8933aef42cbe2b52c1d2e7f25a6bc861ced53bbb347",
+    "source_included": true,
+    "archive": "AVTOLAB77-v23.zip",
+    "archive_sha256": "d1fa8c69c87814c2555b683d871b7cfb5dc7c667fe854cf461ec20f18fae0801"
   }
 ]
