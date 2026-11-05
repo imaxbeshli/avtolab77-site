@@ -350,5 +350,16 @@
     "archive_sha256": "074edba25941e073e54c4426cf4d3d35411602bd6bbb06eeb444940240df5caa",
     "storage_commit": "e0aab9d92e0b3496c34ca6b746442757db356b79",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/e0aab9d92e0b3496c34ca6b746442757db356b79/versions/AVTOLAB77-v36.zip"
+  },
+  {
+    "version": "v37",
+    "commit": "cf5e5f532cf72049f1ce7c8020f2dc6dfb414cf1",
+    "description": "Первый экран по утверждённому визуалу: отдельные автомобили и фон, редактируемый текст и 77, задний туман и пульсация света",
+    "index_sha256": "042e8b60805da0bd3fdfea4e5320368d7dd8f70bcf47dcc5c89970d7a3185c29",
+    "source_included": true,
+    "archive": "AVTOLAB77-v37.zip",
+    "archive_sha256": "30047385815236f3e85da26c448f990d1338fcf71795c871e03b4a6592a3bcbc",
+    "storage_commit": "8d4815e293ef462bb94462dcb41fd561a1cd5983",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/8d4815e293ef462bb94462dcb41fd561a1cd5983/versions/AVTOLAB77-v37.zip"
   }
 ]
