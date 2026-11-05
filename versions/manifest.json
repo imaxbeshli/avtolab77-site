@@ -196,5 +196,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v26.zip",
     "archive_sha256": "19a6182cc17dc9b482ee4978ed97f8534560afc92adf47eaa2db741b6fccd185"
+  },
+  {
+    "version": "v27",
+    "commit": "bed2ce56851010e7e4ceb5ac7d7073d67e3d1857",
+    "description": "Исправлена мобильная прокрутка BMW; первый экран отделён от автостайлинга, сокращено расстояние между заголовком и автомобилем.",
+    "index_sha256": "feb43fc3222e667fd59d6213cb2d0263aa2c75dac59d8b8e4948a3763ca25e9b",
+    "source_included": true,
+    "archive": "AVTOLAB77-v27.zip",
+    "archive_sha256": "3f1b702c4e55d05e22502d8d8ad393a116d784bc9a73a8d290e429b09079725d"
   }
 ]
