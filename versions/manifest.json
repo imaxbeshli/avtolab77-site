@@ -430,5 +430,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v52.zip",
     "archive_sha256": "19bf9655c4038746d798dba913f970ba507da16fae28a6e18f958205df3354b7"
+  },
+  {
+    "version": "v53",
+    "commit": "f13a06e0b69afbec20ab3a10b740d5220c64bfb2",
+    "description": "Векторные значки соцсетей с обновлённым MAX, плавное приближение главной сцены и заметное пульсирующее свечение 77.",
+    "index_sha256": "9025d4daafab44e51e4ca3020576ef468aa017e9f27532b842a4dae6d13b36f6",
+    "source_included": true,
+    "archive": "AVTOLAB77-v53.zip",
+    "archive_sha256": "48d93f7f32a069a3ef3b745a94e9459501d06c716b53108e8634088e5c557e35"
   }
 ]
