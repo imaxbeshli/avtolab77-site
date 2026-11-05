@@ -284,5 +284,16 @@
     "archive_sha256": "74f0283448df415488165a08e99d361e1c43b6285d818e8f5e8ae2b2a17428f5",
     "storage_commit": "1ca3f5da53f383d02418b51878bffd66e57c5e83",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/1ca3f5da53f383d02418b51878bffd66e57c5e83/versions/AVTOLAB77-v30.zip"
+  },
+  {
+    "version": "v31",
+    "commit": "a578caa1dbe7dffc941a44c2154583dcff4a68b0",
+    "description": "На компьютере заголовок и салон фиксируются до завершения приближения и перевода. Телефон сохраняет обычную прокрутку.",
+    "index_sha256": "642b0c97149032477acabc50290480948d3299a05b0683294f667d0a3f0009da",
+    "source_included": true,
+    "archive": "AVTOLAB77-v31.zip",
+    "archive_sha256": "cb2e2ced6736765f69a631aa47dfbe672b130dad17c1dbdd78c62b164c187fda",
+    "storage_commit": "7ac567199175dfde26b060f0ff70e4a93096347e",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/7ac567199175dfde26b060f0ff70e4a93096347e/versions/AVTOLAB77-v31.zip"
   }
 ]
