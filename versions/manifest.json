@@ -295,5 +295,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v37.zip",
     "archive_sha256": "30047385815236f3e85da26c448f990d1338fcf71795c871e03b4a6592a3bcbc"
+  },
+  {
+    "version": "v38",
+    "commit": "263f83b0c35055dd09686727f526ed7587f95567",
+    "description": "Длинные ножки 77 с растворением в темноте, убрана центральная полоса, исправлены края фоновых слоёв",
+    "index_sha256": "addfbf95ddff809d06c66428034392af57e033845f640083cfcc1e1398be642e",
+    "source_included": true,
+    "archive": "AVTOLAB77-v38.zip",
+    "archive_sha256": "54a0582bd756924a44ea383fe473d1a5ade16d1e612c54ef04bbf1e0e98e3cf3"
   }
 ]
