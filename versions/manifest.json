@@ -537,5 +537,16 @@
     "archive_sha256": "48d93f7f32a069a3ef3b745a94e9459501d06c716b53108e8634088e5c557e35",
     "storage_commit": "f95da52700facac582731c0cbc1fa649bf977af7",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/f95da52700facac582731c0cbc1fa649bf977af7/versions/AVTOLAB77-v53.zip"
+  },
+  {
+    "version": "v54",
+    "commit": "2ccc44662773afc78b419d34d05d89cc7f95fd27",
+    "description": "Ссылки студии в пяти значках соцсетей, прежний вид 77 и Unbounded в заголовке «Наши проекты».",
+    "index_sha256": "e0da8c4b703280bdb502d6f8d5e5557fa74884d19cd5073b0d794a575608f78b",
+    "source_included": true,
+    "archive": "AVTOLAB77-v54.zip",
+    "archive_sha256": "0c3e203134869ad6efa7f4ee0e4dad872f49665bbaff48f5150fbc9e0d272dc1",
+    "storage_commit": "e9f58806344df2626f5abf35aad75c8d6cf1df6c",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/e9f58806344df2626f5abf35aad75c8d6cf1df6c/versions/AVTOLAB77-v54.zip"
   }
 ]
