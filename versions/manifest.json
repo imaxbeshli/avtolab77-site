@@ -251,5 +251,16 @@
     "archive_sha256": "3f1b702c4e55d05e22502d8d8ad393a116d784bc9a73a8d290e429b09079725d",
     "storage_commit": "7e4c49e5b26c6e692d92a8c3391b80c32799c712",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/7e4c49e5b26c6e692d92a8c3391b80c32799c712/versions/AVTOLAB77-v27.zip"
+  },
+  {
+    "version": "v28",
+    "commit": "664bbb32ba18975bba20e9c711229d775da8342c",
+    "description": "Компактный первый экран на телефоне; мягкие края сцены BMW и переход мокрого пола к услугам.",
+    "index_sha256": "84ec86d15f784839efd228d8a3ea2d9da5abda8f156f6bf9fed8632baa4de5f1",
+    "source_included": true,
+    "archive": "AVTOLAB77-v28.zip",
+    "archive_sha256": "32f7f65343b232f5bbc2c1c9f21b7bc95be10fc98d4e97d300ae554982f5446c",
+    "storage_commit": "2bfb069714aa5e932a45e82a8e11fd8f5c647ea7",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/2bfb069714aa5e932a45e82a8e11fd8f5c647ea7/versions/AVTOLAB77-v28.zip"
   }
 ]
