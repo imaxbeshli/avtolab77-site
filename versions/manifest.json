@@ -405,5 +405,16 @@
     "archive_sha256": "c6a6018b069240108cc7411818fe9d245d194db8c04d460b7cab7e738ab8af01",
     "storage_commit": "0a40fd057ebba7c5e4332fc1904d9304b5f6f2ec",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/0a40fd057ebba7c5e4332fc1904d9304b5f6f2ec/versions/AVTOLAB77-v41.zip"
+  },
+  {
+    "version": "v42",
+    "commit": "2e9624ad1df9d85b1dd0d3ec7d05371b2be31ec8",
+    "description": "Главная сцена поднята на 10%; изображение, туман и остальные разделы сохранены",
+    "index_sha256": "1b7ccad97cbf45e3b0c03319d35913a0ac3980f20caac03451690febd17e4226",
+    "source_included": true,
+    "archive": "AVTOLAB77-v42.zip",
+    "archive_sha256": "c03e6b9c7bec8ea011347e247047dcb9c2f46f41ba6fd024304b0158c5465d53",
+    "storage_commit": "07c95cfa221523a3640dcf1d2c75584bae1d5227",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/07c95cfa221523a3640dcf1d2c75584bae1d5227/versions/AVTOLAB77-v42.zip"
   }
 ]
