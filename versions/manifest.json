@@ -151,5 +151,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v21.zip",
     "archive_sha256": "63005358febbf461f63309f99dbe0f7b2bbda6b15b887d95f334583435d03bd3"
+  },
+  {
+    "version": "v22",
+    "commit": "6057def5b7a44eb033d75b251c45429416a6acc5",
+    "description": "Единый бесшовный фон, разделы без внешних рамок, расширяемые ленты и плавное приближение изображений внутри карточек.",
+    "index_sha256": "ffa61438600cf7d4fd24ea233a1a7b4346805b5547f22093d657f8ea7c9f6bab",
+    "source_included": true,
+    "archive": "AVTOLAB77-v22.zip",
+    "archive_sha256": "086185e8724c80c4efa3b22627b9d91ffe980b3a69a44ed3d516bb13e057b1dd"
   }
 ]
