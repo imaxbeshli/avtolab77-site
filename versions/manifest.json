@@ -427,5 +427,16 @@
     "archive_sha256": "fb41388109f6ff8187cd84d94966bda33086493210113b8e6157745270be09ea",
     "storage_commit": "5471954f15b29ab6485a6670e180493a8a247f65",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/5471954f15b29ab6485a6670e180493a8a247f65/versions/AVTOLAB77-v43.zip"
+  },
+  {
+    "version": "v44",
+    "commit": "0dbab7ff48311d7900b118da04a2005c31084854",
+    "description": "Общий павильон, пол и свет; отдельный анимированный SVG-заголовок, главная сцена без центральной полосы, BMW без подиума. Исходные анимации сохранены.",
+    "index_sha256": "11526c609e8710f6f287e8c92c2b73000848770dc8732ef7e1942cbbe2c9a58a",
+    "source_included": true,
+    "archive": "AVTOLAB77-v44.zip",
+    "archive_sha256": "4e7f53e6e9b1b5fe9098244c7968be9155bb9261c39e22f1197bb7439d497064",
+    "storage_commit": "5fbf169880a519677dabed44b2d6faed87a0a9a5",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/5fbf169880a519677dabed44b2d6faed87a0a9a5/versions/AVTOLAB77-v44.zip"
   }
 ]
