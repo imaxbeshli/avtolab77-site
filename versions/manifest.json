@@ -460,5 +460,16 @@
     "archive_sha256": "283b3595b6309fc54b0324b7fc26c240a5788e2cb12e93dd57d487c7033e0f66",
     "storage_commit": "1112f89a227e2e63fc91a854b6167766fa41149d",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/1112f89a227e2e63fc91a854b6167766fa41149d/versions/AVTOLAB77-v46.zip"
+  },
+  {
+    "version": "v47",
+    "commit": "361d1a9f308063801f6cc6ec9b1e16f216f64912",
+    "description": "Плавный переход сцен, заголовки крупнее, графитовый низ без скал, задержка после фар, бордовый LAB и пять SVG-соцсетей",
+    "index_sha256": "8f24fe86b44ed509c2b6d1b03b873f780ac7237c6ce3c66060112d0f81e25777",
+    "source_included": true,
+    "archive": "AVTOLAB77-v47.zip",
+    "archive_sha256": "785bcb35bd5d09c0447e0040130a8c8a568702ba77e3bed5f1a2976b7f035e16",
+    "storage_commit": "e5d016f7f6edd0473d8ef52e1ab73cb9201815fa",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/e5d016f7f6edd0473d8ef52e1ab73cb9201815fa/versions/AVTOLAB77-v47.zip"
   }
 ]
