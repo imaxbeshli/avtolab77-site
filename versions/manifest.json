@@ -349,5 +349,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v43.zip",
     "archive_sha256": "fb41388109f6ff8187cd84d94966bda33086493210113b8e6157745270be09ea"
+  },
+  {
+    "version": "v44",
+    "commit": "0dbab7ff48311d7900b118da04a2005c31084854",
+    "description": "Общий павильон, пол и свет; отдельный анимированный SVG-заголовок, главная сцена без центральной полосы, BMW без подиума. Исходные анимации сохранены.",
+    "index_sha256": "11526c609e8710f6f287e8c92c2b73000848770dc8732ef7e1942cbbe2c9a58a",
+    "source_included": true,
+    "archive": "AVTOLAB77-v44.zip",
+    "archive_sha256": "4e7f53e6e9b1b5fe9098244c7968be9155bb9261c39e22f1197bb7439d497064"
   }
 ]
