@@ -306,5 +306,16 @@
     "archive_sha256": "e201657ab531bfa4109cfe9a51b02543c33b418382f861f51511a5f16a07d3b8",
     "storage_commit": "061e0c161b7aec35bf52aa8f0380395f142c6000",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/061e0c161b7aec35bf52aa8f0380395f142c6000/versions/AVTOLAB77-v32.zip"
+  },
+  {
+    "version": "v33",
+    "commit": "920e7aabcf66867980d4bbed7044cffcd6e9149c",
+    "description": "Сокращены мобильные отступы над салоном и под ним, планшет и выбор автомобилей расположены компактнее.",
+    "index_sha256": "c560dff046bdf0e0eb3765aa6b4474f60695587a5a9dee352efd7fc0e2294167",
+    "source_included": true,
+    "archive": "AVTOLAB77-v33.zip",
+    "archive_sha256": "7a4fab896b0ee526397ebf9f8763cadee1db8743725830668ab91020c13c5219",
+    "storage_commit": "53272b52e07a68071b7d6d1cd9a1f49d333cdd73",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/53272b52e07a68071b7d6d1cd9a1f49d333cdd73/versions/AVTOLAB77-v33.zip"
   }
 ]
