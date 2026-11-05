@@ -133,5 +133,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v19.zip",
     "archive_sha256": "7cb82e33e9bb16de23708263942c36995eba6d395f8de45f77a1786460db448a"
+  },
+  {
+    "version": "v20",
+    "commit": "861e2f516cff86d70c731ecf000cb2c18f7e4d36",
+    "description": "Лёгкий зацикленный туман и мягкое периодическое свечение настенных ламп; сохранены настройки v19.",
+    "index_sha256": "f1a5715cb4341eacc5d72f0fd520b0a0d84f82a82ae67fb5c377cf1077e93057",
+    "source_included": true,
+    "archive": "AVTOLAB77-v20.zip",
+    "archive_sha256": "c2c565b0e8c0af6db16aa655b5b9f4a2d6b60fe02525fa0e6b7de7dcc42c0555"
   }
 ]
