@@ -504,5 +504,16 @@
     "archive_sha256": "b8249865574e3bb6c1a931ce91924271ec9d80fbabf28c619296d5c8872eea2a",
     "storage_commit": "31c14d1ba09e59aecbc7eae6a5f0b069a4d03ae4",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/31c14d1ba09e59aecbc7eae6a5f0b069a4d03ae4/versions/AVTOLAB77-v50.zip"
+  },
+  {
+    "version": "v51",
+    "commit": "37ef977645bdad15e893d2aa819fcafd9eae2f9d",
+    "description": "Больше расстояние над BMW на компьютере; PNG и плавное переключение слоёв вместо сложных фильтров в выборе автомобиля",
+    "index_sha256": "d2d97a443466b488a78d9ef3fb211fb32563cd26d733b53b5076d618072d6ea4",
+    "source_included": true,
+    "archive": "AVTOLAB77-v51.zip",
+    "archive_sha256": "38d7e617a05122b4b857660f43a0f590c68a0fdd7b52066237c2c4026c66601b",
+    "storage_commit": "9b857328b8bb2b562bc2309e03331c47c39ca34c",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/9b857328b8bb2b562bc2309e03331c47c39ca34c/versions/AVTOLAB77-v51.zip"
   }
 ]
