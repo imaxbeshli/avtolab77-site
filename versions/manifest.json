@@ -394,5 +394,16 @@
     "archive_sha256": "aa43f70823d26aac48c7353ecbb5651a1f5cedf1d2a6cae9846d871f2b77adcd",
     "storage_commit": "ed73aa2e0bceccd98a43753958ab056d3a7a9884",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/ed73aa2e0bceccd98a43753958ab056d3a7a9884/versions/AVTOLAB77-v40.zip"
+  },
+  {
+    "version": "v41",
+    "commit": "4dd1bde8cdfb7b75a6389275660959bd004712d5",
+    "description": "Утверждённое изображение целиком: очистка артефактов текста, мягкий реалистичный пол и отдельный медленный передний туман",
+    "index_sha256": "581e5bb5b6096be4146c18d890c4a00a119f0ac6d667898a0439706d218acacb",
+    "source_included": true,
+    "archive": "AVTOLAB77-v41.zip",
+    "archive_sha256": "c6a6018b069240108cc7411818fe9d245d194db8c04d460b7cab7e738ab8af01",
+    "storage_commit": "0a40fd057ebba7c5e4332fc1904d9304b5f6f2ec",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/0a40fd057ebba7c5e4332fc1904d9304b5f6f2ec/versions/AVTOLAB77-v41.zip"
   }
 ]
