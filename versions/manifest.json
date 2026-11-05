@@ -394,5 +394,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v48.zip",
     "archive_sha256": "301d01b0846b6c8b4a2b26216a804eb9c490b737ffc07a034d3ecd97b3b268b5"
+  },
+  {
+    "version": "v49",
+    "commit": "2fd6d6af4538325195f576b22436043781dd5f21",
+    "description": "Скалы с мягким размытием, Unbounded в консультации, проекты крупнее, единый мобильный тайминг и расфокус боковых автомобилей",
+    "index_sha256": "746d1b61309b88720e8ab7fcc4ec6a9ad71cdab75d463fb1c59e6c54c1c51955",
+    "source_included": true,
+    "archive": "AVTOLAB77-v49.zip",
+    "archive_sha256": "1ade1d39038fbbce6ca7c3dd5c051a0c6b4cc452b61101553af6ca40147ebf99"
   }
 ]
