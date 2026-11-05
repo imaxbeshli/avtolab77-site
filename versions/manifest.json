@@ -295,5 +295,16 @@
     "archive_sha256": "cb2e2ced6736765f69a631aa47dfbe672b130dad17c1dbdd78c62b164c187fda",
     "storage_commit": "7ac567199175dfde26b060f0ff70e4a93096347e",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/7ac567199175dfde26b060f0ff70e4a93096347e/versions/AVTOLAB77-v31.zip"
+  },
+  {
+    "version": "v32",
+    "commit": "856b9c5b52daa429d1a29374de9b5ae5d03a76e3",
+    "description": "Заметное плавное приближение к планшету на компьютере: 30%. На телефоне сохранена прежняя анимация.",
+    "index_sha256": "60ef3a1b34cfac67f3f9a9e69e08d88141621131f689f7752abef4d59f177e03",
+    "source_included": true,
+    "archive": "AVTOLAB77-v32.zip",
+    "archive_sha256": "e201657ab531bfa4109cfe9a51b02543c33b418382f861f51511a5f16a07d3b8",
+    "storage_commit": "061e0c161b7aec35bf52aa8f0380395f142c6000",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/061e0c161b7aec35bf52aa8f0380395f142c6000/versions/AVTOLAB77-v32.zip"
   }
 ]
