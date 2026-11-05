@@ -187,5 +187,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v25.zip",
     "archive_sha256": "bb3f853dad4b98b63092bd1357269f2c0082302141c608b1cda7ca15c837cb4d"
+  },
+  {
+    "version": "v26",
+    "commit": "8765ec3530c251d29575ffb0f8d43acf22c6e6c1",
+    "description": "BMW плавно меняется при прокрутке: глянец, матовое покрытие и включение фар. Без демонстрационных надписей.",
+    "index_sha256": "a57d4dc2b8bb06e4b0ea269b2d71ccfeaba4fed090da484903981466d79695a9",
+    "source_included": true,
+    "archive": "AVTOLAB77-v26.zip",
+    "archive_sha256": "19a6182cc17dc9b482ee4978ed97f8534560afc92adf47eaa2db741b6fccd185"
   }
 ]
