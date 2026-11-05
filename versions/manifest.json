@@ -273,5 +273,16 @@
     "archive_sha256": "478e7369d25901d67cdf8d457f4e260d38b6ad3f12a3660bf2338336cefd4e4a",
     "storage_commit": "75c16cfd2327dec6c267e099e2f5c61748b3a86e",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/75c16cfd2327dec6c267e099e2f5c61748b3a86e/versions/AVTOLAB77-v29.zip"
+  },
+  {
+    "version": "v30",
+    "commit": "1087571030e85b9f1c169f897ae9f8d1c674aa53",
+    "description": "Последовательное преобразование китайских символов в русский текст. Убран отдельный фон выбора моделей и перекрытие салона.",
+    "index_sha256": "6dd82faa8b9c365a12e401ef8b4d7462d1f57380d7c3ca418da4fb2b63eea1b7",
+    "source_included": true,
+    "archive": "AVTOLAB77-v30.zip",
+    "archive_sha256": "74f0283448df415488165a08e99d361e1c43b6285d818e8f5e8ae2b2a17428f5",
+    "storage_commit": "1ca3f5da53f383d02418b51878bffd66e57c5e83",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/1ca3f5da53f383d02418b51878bffd66e57c5e83/versions/AVTOLAB77-v30.zip"
   }
 ]
