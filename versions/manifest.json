@@ -493,5 +493,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v59.zip",
     "archive_sha256": "f162998a549f32b0d12ab44428e1e58c6e4f446eacd2db271670305bd2d256dc"
+  },
+  {
+    "version": "v60",
+    "commit": "2ee36f47b20da20c2c291734e0ab67c1e62e4077",
+    "description": "Карта в тёмной чёрно-белой палитре с бордовым оттенком; убрана надпись поверх карты, сохранена кнопка маршрута.",
+    "index_sha256": "104d6d61be0e627410062661f0159221dd14f5b4f28f348150137e5a4372816a",
+    "source_included": true,
+    "archive": "AVTOLAB77-v60.zip",
+    "archive_sha256": "bfd287a1a8fd62022ad3a64bd55eacadb0bf0d860a29612c5749fded814c16d1"
   }
 ]
