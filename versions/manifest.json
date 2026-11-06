@@ -581,5 +581,16 @@
     "archive_sha256": "34ff2387e390f04591440c3cf537df9a99e0e6fc9bdafa6bfead3068d2ac577c",
     "storage_commit": "516b7995122e459a00cea018e443f408f5556b19",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/516b7995122e459a00cea018e443f408f5556b19/versions/AVTOLAB77-v57.zip"
+  },
+  {
+    "version": "v58",
+    "commit": "ec54eb2f29bc88e0ded10fef3c0876c484940b28",
+    "description": "Форма записи и «Как нас найти» в одной адаптивной панели: адрес, часы, карта Яндекса, маршрут и согласованный список восьми услуг.",
+    "index_sha256": "d32ef90ae215813a0f7df11a671c0b41394458df5e8512e0c7939e9776505ecf",
+    "source_included": true,
+    "archive": "AVTOLAB77-v58.zip",
+    "archive_sha256": "166e2d4d7dd239cd704661895a2d7ec834be4a83d1989485d3e44aaab4cf514d",
+    "storage_commit": "c0060063233bbd6b8900ec6c3d36cb5d907c3988",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/c0060063233bbd6b8900ec6c3d36cb5d907c3988/versions/AVTOLAB77-v58.zip"
   }
 ]
