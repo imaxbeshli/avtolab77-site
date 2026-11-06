@@ -511,5 +511,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v61.zip",
     "archive_sha256": "cac9ceb5d7f849d2f24981d33e78c3ab83e5cf53e7853e3136491db880eb2288"
+  },
+  {
+    "version": "v62",
+    "commit": "3705ad34ce02b9bc219b900f3ae716ef62530e22",
+    "description": "Просмотр карты: плавное приближение, жест двумя пальцами, перетаскивание, прокрутка панели колёсиком и отдельная кнопка маршрута.",
+    "index_sha256": "7752f799b2c11dc968c24dda31101f4ac4ff9cc25899bbac593b9cc66504d8d2",
+    "source_included": true,
+    "archive": "AVTOLAB77-v62.zip",
+    "archive_sha256": "7a00a2874753459297401daa702ace8007e084a7cb1a19bc908eafcae212a63c"
   }
 ]
