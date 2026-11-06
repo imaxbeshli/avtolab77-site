@@ -614,5 +614,16 @@
     "archive_sha256": "bfd287a1a8fd62022ad3a64bd55eacadb0bf0d860a29612c5749fded814c16d1",
     "storage_commit": "bb49755ec208260235ff0eb668bba7aa6a53bd58",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/bb49755ec208260235ff0eb668bba7aa6a53bd58/versions/AVTOLAB77-v60.zip"
+  },
+  {
+    "version": "v61",
+    "commit": "02fc649372df9f0948f36fddeeeb3b10b177dd79",
+    "description": "Статичная карта в графитово-бордовой палитре: Автолаб77, метро и Москва-Сити, без посторонних организаций и интерфейса.",
+    "index_sha256": "b2f212c4436a33de3b4dd6437d5b8cce76dc4199c9872cf6e50ed78c6ee4f8ac",
+    "source_included": true,
+    "archive": "AVTOLAB77-v61.zip",
+    "archive_sha256": "cac9ceb5d7f849d2f24981d33e78c3ab83e5cf53e7853e3136491db880eb2288",
+    "storage_commit": "ba3e5a322271b430e9ea576a16f60c99175a6ef8",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/ba3e5a322271b430e9ea576a16f60c99175a6ef8/versions/AVTOLAB77-v61.zip"
   }
 ]
