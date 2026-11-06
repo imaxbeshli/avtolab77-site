@@ -592,5 +592,16 @@
     "archive_sha256": "166e2d4d7dd239cd704661895a2d7ec834be4a83d1989485d3e44aaab4cf514d",
     "storage_commit": "c0060063233bbd6b8900ec6c3d36cb5d907c3988",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/c0060063233bbd6b8900ec6c3d36cb5d907c3988/versions/AVTOLAB77-v58.zip"
+  },
+  {
+    "version": "v59",
+    "commit": "25f8e950374398140c3df9fcf64abb92f45b736b",
+    "description": "Центрированная панель записи: оригинальный логотип, Unbounded и Manrope, форма по центру колонки на компьютере и последовательная мобильная компоновка.",
+    "index_sha256": "c8f42b83ccff69cd5dec58b86c89e7ad0ec38cddb61eed5de42528a10a3df9a4",
+    "source_included": true,
+    "archive": "AVTOLAB77-v59.zip",
+    "archive_sha256": "f162998a549f32b0d12ab44428e1e58c6e4f446eacd2db271670305bd2d256dc",
+    "storage_commit": "015a6a4444f75b6cc9f290e8a936cc34418dc143",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/015a6a4444f75b6cc9f290e8a936cc34418dc143/versions/AVTOLAB77-v59.zip"
   }
 ]
