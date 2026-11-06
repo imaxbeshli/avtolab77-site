@@ -520,5 +520,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v62.zip",
     "archive_sha256": "7a00a2874753459297401daa702ace8007e084a7cb1a19bc908eafcae212a63c"
+  },
+  {
+    "version": "v63",
+    "commit": "0e0b46e5a7320337de0a2a3d46e3162f636ebf03",
+    "description": "Живая интерактивная Яндекс Карта в панели записи: прямое управление картой, отдельная кнопка маршрута, без просмотра статичного изображения.",
+    "index_sha256": "bd2c05362f6f1a3ea9d4f529ce9db614cc1bddf334e7ed8635d71a1d63671bea",
+    "source_included": true,
+    "archive": "AVTOLAB77-v63.zip",
+    "archive_sha256": "e9c899009554795e720ca689480fde365a7842f19037e3035f89db42139c5ba6"
   }
 ]
