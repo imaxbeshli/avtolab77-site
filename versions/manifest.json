@@ -538,5 +538,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v64.zip",
     "archive_sha256": "add0957c786ec6ef5526636e9ec3a60c0b67e3b0c983248b87ea91f693e89798"
+  },
+  {
+    "version": "v65",
+    "commit": "0633995849b07934300f282de1f349850a784b31",
+    "description": "Источники карты в кнопке ⓘ, крестик без квадратной рамки, плавное открытие и закрытие заявки с сохранением прокрутки.",
+    "index_sha256": "f3e90da86c616cfbad778556191fae3094f7c222866eef69ee72eed0ef969fb9",
+    "source_included": true,
+    "archive": "AVTOLAB77-v65.zip",
+    "archive_sha256": "73a2b99966759d7700cfb982fe69c7ad7e3f12845a509b080b524eb134f6843a"
   }
 ]
