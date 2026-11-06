@@ -570,5 +570,16 @@
     "archive_sha256": "c54ec0af2b4a59441d634da8f33379a4ff6d249f1516804bd8184d356001095a",
     "storage_commit": "e6f9caef77db2ba9f5f0160d4c2be3f8b2b62ab1",
     "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/e6f9caef77db2ba9f5f0160d4c2be3f8b2b62ab1/versions/AVTOLAB77-v56.zip"
+  },
+  {
+    "version": "v57",
+    "commit": "79f917c7cfb4bb970e3979ab111deee1331ce950",
+    "description": "Компактная форма «Запись на услугу»: имя, телефон, список услуг и «Другое», бордовая кнопка, центрирование на телефоне и компьютере.",
+    "index_sha256": "d04a997e6bedbdbea49d83072ae6cdc92ce75287490d410ba2613282898f0738",
+    "source_included": true,
+    "archive": "AVTOLAB77-v57.zip",
+    "archive_sha256": "34ff2387e390f04591440c3cf537df9a99e0e6fc9bdafa6bfead3068d2ac577c",
+    "storage_commit": "516b7995122e459a00cea018e443f408f5556b19",
+    "archive_url": "https://raw.githubusercontent.com/imaxbeshli/avtolab77-site/516b7995122e459a00cea018e443f408f5556b19/versions/AVTOLAB77-v57.zip"
   }
 ]
