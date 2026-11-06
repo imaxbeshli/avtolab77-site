@@ -529,5 +529,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v63.zip",
     "archive_sha256": "e9c899009554795e720ca689480fde365a7842f19037e3035f89db42139c5ba6"
+  },
+  {
+    "version": "v64",
+    "commit": "23050380bb9220e1e21f235bf974bbe8fddc7992",
+    "description": "Интерактивная карта MapLibre/OpenFreeMap без рекламы, точная метка Автолаб77 по координатам владельца, графитово-бордовый стиль и маршрут в Яндексе.",
+    "index_sha256": "0625a83f39d4f4be6d64dcfd750ddd72deabd8e8dd4b3c72b66ee2b5865d4016",
+    "source_included": true,
+    "archive": "AVTOLAB77-v64.zip",
+    "archive_sha256": "add0957c786ec6ef5526636e9ec3a60c0b67e3b0c983248b87ea91f693e89798"
   }
 ]
