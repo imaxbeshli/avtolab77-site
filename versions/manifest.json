@@ -466,5 +466,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v56.zip",
     "archive_sha256": "c54ec0af2b4a59441d634da8f33379a4ff6d249f1516804bd8184d356001095a"
+  },
+  {
+    "version": "v57",
+    "commit": "79f917c7cfb4bb970e3979ab111deee1331ce950",
+    "description": "Компактная форма «Запись на услугу»: имя, телефон, список услуг и «Другое», бордовая кнопка, центрирование на телефоне и компьютере.",
+    "index_sha256": "d04a997e6bedbdbea49d83072ae6cdc92ce75287490d410ba2613282898f0738",
+    "source_included": true,
+    "archive": "AVTOLAB77-v57.zip",
+    "archive_sha256": "34ff2387e390f04591440c3cf537df9a99e0e6fc9bdafa6bfead3068d2ac577c"
   }
 ]
