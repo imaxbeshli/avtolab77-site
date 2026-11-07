@@ -565,5 +565,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v67.zip",
     "archive_sha256": "72c17b101545c5b6ac6a962083fe1ad944aac691f7ee1b8b8aace7042152ec23"
+  },
+  {
+    "version": "v68",
+    "commit": "88af90216ae2fd0506ca4f42f27314302bb0a15b",
+    "description": "Новый шаблон услуг и страница шумоизоляции; остальные услуги ожидают доступ к исходникам",
+    "index_sha256": "b1921cbe5055489881994b5e295834fbd51559fd483c54e5b0feb2d0e217514e",
+    "source_included": true,
+    "archive": "AVTOLAB77-v68.zip",
+    "archive_sha256": "bdbb7ce77474038bd785d876efe7fa1f150555b83dddd653e644f13a2d84fb9a"
   }
 ]
