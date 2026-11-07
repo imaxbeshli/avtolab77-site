@@ -556,5 +556,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v66.zip",
     "archive_sha256": "250725410cdc70d925876743fbf8b8419174a1a2807a4e0f65c77b2d75180369"
+  },
+  {
+    "version": "v67",
+    "commit": "c0183bcac3383f161ebb04c4283e76bd965ea0fa",
+    "description": "Компактное окно записи, соцсети, телефон и удобное масштабирование карты",
+    "index_sha256": "2f2d69831f0ae65e97bca631e118e729131cb717edb3ed37993dc41d32870c2d",
+    "source_included": true,
+    "archive": "AVTOLAB77-v67.zip",
+    "archive_sha256": "72c17b101545c5b6ac6a962083fe1ad944aac691f7ee1b8b8aace7042152ec23"
   }
 ]
