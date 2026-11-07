@@ -1003,5 +1003,407 @@
     "original_photos_archive": "AVTOLAB77-v72-original-photos.zip",
     "original_photos_sha256": "7353cb7fe6ab06125e9c619926bb119c7fb54f8d5dd8f7f87e7e75f170dbcc88",
     "archive_sha256": "91ad463cb76f1ac42100d8979c5ee4db71eade895d1b32468a8078b309eadf3c"
+  },
+  {
+    "version": "v73",
+    "commit": "7554a942544c696ec083792457b1bd3014455c29",
+    "description": "Галереи всех шести проектов переведены в горизонтальные ленты, как в автостайлинге. Плавная прокрутка мышью и пальцем, без нижней полосы. Все 97 фотографий сохранены.",
+    "index_sha256": "8566375f9ae768466fcfc1c17d73a4fb686232280055ffa8c07e1daeb44287b6",
+    "source_included": true,
+    "archive": "AVTOLAB77-v73.zip",
+    "live_index_sha256": "1968f921bb771341cb3920de05d37fa6a80d09e2c52c32197328bf549723eca9",
+    "project_media": [
+      {
+        "path": "project-media/r72/bentley-01-0235be375e5f.webp",
+        "sha256": "0235be375e5f43a1350b9899dd5fc4d2e9b3a1c39d4fa27b0aaf738127f1b2eb"
+      },
+      {
+        "path": "project-media/r72/bentley-02-9374425e0cfa.webp",
+        "sha256": "9374425e0cfa4c9312aa9392da0593cae072503f0d7cd19c62661e9e852593aa"
+      },
+      {
+        "path": "project-media/r72/bentley-03-a900c2d72fea.webp",
+        "sha256": "a900c2d72feab897d59419b81d1b0f691f9ae5d5c0a6a46bd7e802ee6ecd4141"
+      },
+      {
+        "path": "project-media/r72/bentley-04-1773619d2d7c.webp",
+        "sha256": "1773619d2d7c51fab1f197c1cbcecc90ce68894d372ee1b69d905ec0d79ad4af"
+      },
+      {
+        "path": "project-media/r72/bentley-05-3b43a6d712f5.webp",
+        "sha256": "3b43a6d712f58a902bab5031aab20cb64d9dc83d596e01f91d510666364d1eb7"
+      },
+      {
+        "path": "project-media/r72/bentley-06-c86cd7b3164a.webp",
+        "sha256": "c86cd7b3164a3b44b928ebb3c2724d9c28abd7b9f26f0f578f6d3fd0ed7e3719"
+      },
+      {
+        "path": "project-media/r72/bentley-07-661f0ee7058a.webp",
+        "sha256": "661f0ee7058ac7aa21611245b9452d307a12c861cace4cd5ea66301c6a947fd9"
+      },
+      {
+        "path": "project-media/r72/bentley-08-9c33a34c89e1.webp",
+        "sha256": "9c33a34c89e1c929829d936c8b9173e1b77e240e8886b91fbd3ba04d6c657eff"
+      },
+      {
+        "path": "project-media/r72/bentley-09-2ea526f86a52.webp",
+        "sha256": "2ea526f86a525a9632043919a528ec7d5a862505c45839b0f4ca2cc8ac2111e3"
+      },
+      {
+        "path": "project-media/r72/bentley-10-675e7006f6ec.webp",
+        "sha256": "675e7006f6ec29c715000b574efb1955fc26a88c321d7739a1d90dec52bc6e96"
+      },
+      {
+        "path": "project-media/r72/bentley-11-3629e31c6e6d.webp",
+        "sha256": "3629e31c6e6d97c98dda5627a22789c42ad2f7e5710e85f67f2ccf51d7f90bdc"
+      },
+      {
+        "path": "project-media/r72/bentley-12-769bcc9ff1b9.webp",
+        "sha256": "769bcc9ff1b963671a36b72bf10a46ad1bd6fd0a7638db46b71ffb398692379a"
+      },
+      {
+        "path": "project-media/r72/bentley-13-dc2112f3782a.webp",
+        "sha256": "dc2112f3782afedeb4c96fedc958769c820803c95fe84b216261aed4722f0bc4"
+      },
+      {
+        "path": "project-media/r72/bentley-14-7419bc0638aa.webp",
+        "sha256": "7419bc0638aa648ef6f4456dc605db120a94b0d21e4ac5b5edea55dde1054d2f"
+      },
+      {
+        "path": "project-media/r72/bentley-15-2f6594dbc3f7.webp",
+        "sha256": "2f6594dbc3f7581aceb1b76cb9d258c92c9b2010ac3ee495da1f7a41bb99d144"
+      },
+      {
+        "path": "project-media/r72/bentley-16-c8a31c6ebf6a.webp",
+        "sha256": "c8a31c6ebf6a402665e6be63a7d88cbc264edb3ba6703645f6be46e86accb2f1"
+      },
+      {
+        "path": "project-media/r72/bentley-17-694ca752e8ac.webp",
+        "sha256": "694ca752e8ac7535e5183faf2c07e31d85b1d1f00232143fe4313f6410cbe2a4"
+      },
+      {
+        "path": "project-media/r72/bmw-01-fae849c9fad6.webp",
+        "sha256": "fae849c9fad6517fafb969510489a9e1467cd8f117d09fdf7f3134341046689b"
+      },
+      {
+        "path": "project-media/r72/bmw-02-7fda2c6278fb.webp",
+        "sha256": "7fda2c6278fbf1f8f681ad660d647023f4abaca18702a0d2b295052b959ce7f5"
+      },
+      {
+        "path": "project-media/r72/bmw-03-6bc9b2716c46.webp",
+        "sha256": "6bc9b2716c46caf8368e8dee6cb9e5df0fd5052163a7ec563f7a00621940fdc0"
+      },
+      {
+        "path": "project-media/r72/bmw-04-baf6b1249d31.webp",
+        "sha256": "baf6b1249d31c00a5e2305838e4712bed9008b9c916358c4eb01b114769a0e20"
+      },
+      {
+        "path": "project-media/r72/bmw-05-bf9dd1e0ab1d.webp",
+        "sha256": "bf9dd1e0ab1d64904626a104af92d2211f249f3e8087919fbbe8c60e2d6681a9"
+      },
+      {
+        "path": "project-media/r72/bmw-06-5ca05c45d3f3.webp",
+        "sha256": "5ca05c45d3f36b7a36ddbd5404b832526cc2799e1073016d5a522481c5bffbcd"
+      },
+      {
+        "path": "project-media/r72/bmw-07-1792651a4ced.webp",
+        "sha256": "1792651a4ced176c12353a84cfcf1ebfa448a382fcaf708a9099f9dc6b4eff1f"
+      },
+      {
+        "path": "project-media/r72/bmw-08-88492251c07c.webp",
+        "sha256": "88492251c07c1240695acfd5feddbda398463ad5c9659bfccf02423ddd420762"
+      },
+      {
+        "path": "project-media/r72/bmw-09-0c00d7cb597f.webp",
+        "sha256": "0c00d7cb597f1a4b366f1a4a6ec7a16bc439c9b1bb3027172c6cc1a25cf445ca"
+      },
+      {
+        "path": "project-media/r72/bmw-10-5cbf9e70ddbb.webp",
+        "sha256": "5cbf9e70ddbb6f57f80fdb641753d2396926743232c53906e7bd775b7f40c3d8"
+      },
+      {
+        "path": "project-media/r72/lexus-01-937272a5e0ff.webp",
+        "sha256": "937272a5e0ff04c1b8edf0ed3805ebe82bf08effe5c26b47209bc66b2ed65cda"
+      },
+      {
+        "path": "project-media/r72/lexus-02-6f67ba77a03f.webp",
+        "sha256": "6f67ba77a03f9a223eac93f4df54874ca6e2bf226aec6ab023b760f90150c793"
+      },
+      {
+        "path": "project-media/r72/lexus-03-5a93a21dc47a.webp",
+        "sha256": "5a93a21dc47a6ee20bbce139cfc94d5d3c6010d96847c28ec2b9553e155d440e"
+      },
+      {
+        "path": "project-media/r72/lexus-04-e55a300ceac4.webp",
+        "sha256": "e55a300ceac487aa386b1a4486b3a72be8509a642e700c0a06c5f36c79ea2eae"
+      },
+      {
+        "path": "project-media/r72/lexus-05-e61d6b5d6f49.webp",
+        "sha256": "e61d6b5d6f49f0b12ac735b653953311b928cbcd03e84821e9628b45214640ad"
+      },
+      {
+        "path": "project-media/r72/lexus-06-6f5a282e49ae.webp",
+        "sha256": "6f5a282e49ae0023ecdf891bb0f07a89e9fa82162332928bd9e5d88c568b6db6"
+      },
+      {
+        "path": "project-media/r72/lexus-07-9c986f60dad4.webp",
+        "sha256": "9c986f60dad4f15c5b9626024e08ac5d1c755d9e362ebac7216868ae9064d6c8"
+      },
+      {
+        "path": "project-media/r72/lexus-08-e96d3ad62f38.webp",
+        "sha256": "e96d3ad62f38e2edb686338c04039170a10945bd3e6746ec2ddf1ca9811907de"
+      },
+      {
+        "path": "project-media/r72/lexus-09-cfb291dc584e.webp",
+        "sha256": "cfb291dc584ee896662a78804d191ad2239f58e9c04cd66961e16091c0183b01"
+      },
+      {
+        "path": "project-media/r72/lexus-10-8f6fd251496f.webp",
+        "sha256": "8f6fd251496fbd76077fcf02fd4b0ab7a0af58cf54a20eead8fe7fa7716a20c3"
+      },
+      {
+        "path": "project-media/r72/lexus-11-9aa48bd67637.webp",
+        "sha256": "9aa48bd67637b9fd3e86e4786518016f92fe79f69b8c5546b306d8092b44da21"
+      },
+      {
+        "path": "project-media/r72/lexus-12-7036988cb337.webp",
+        "sha256": "7036988cb3372261f61bb94c4e8bdf6e3cb96ec724b4153acbec5b9059d121e0"
+      },
+      {
+        "path": "project-media/r72/lexus-13-39b72aceef98.webp",
+        "sha256": "39b72aceef98f51662b517be34865e5cedf2ef276c9f78a28ff2568916134301"
+      },
+      {
+        "path": "project-media/r72/lexus-14-3f5955963d53.webp",
+        "sha256": "3f5955963d534470541ad6b72bbe98789f85ce82341d1ce5b8dc2c5c1e6ded2d"
+      },
+      {
+        "path": "project-media/r72/lexus-15-c3c2036ae2e3.webp",
+        "sha256": "c3c2036ae2e3f306726a357849a75de93b5024fdc14e9480be7f593f50e68db3"
+      },
+      {
+        "path": "project-media/r72/lexus-16-92a3bf12bf9d.webp",
+        "sha256": "92a3bf12bf9d7814484654509ac769231a339a8f9e32993163a2c19885547921"
+      },
+      {
+        "path": "project-media/r72/lexus-17-d3e8adcb296c.webp",
+        "sha256": "d3e8adcb296cbdcfebb92f25c9994bcb957bf938a8e376541ee0473d9ea611f5"
+      },
+      {
+        "path": "project-media/r72/mercedes-01-6ac93c88fe5d.webp",
+        "sha256": "6ac93c88fe5d4bf3ffebbf83c2ce626eec2da614c2e075551017f6f43a346574"
+      },
+      {
+        "path": "project-media/r72/mercedes-02-6d2debf2b08c.webp",
+        "sha256": "6d2debf2b08c27cb92c05d408326194aa3ca5d0947dc035b283d8ba72e1ec21e"
+      },
+      {
+        "path": "project-media/r72/mercedes-03-38a804fefb00.webp",
+        "sha256": "38a804fefb009f71626555025bf9325bdc7ba16038079282380cb67f58dfa44f"
+      },
+      {
+        "path": "project-media/r72/mercedes-04-8eb5a48cce24.webp",
+        "sha256": "8eb5a48cce2481858e4e48d892512438f21fe8560bedf2e02c2e6386df93cbe6"
+      },
+      {
+        "path": "project-media/r72/mercedes-05-cfe39332a7e2.webp",
+        "sha256": "cfe39332a7e2fd694154665c21d03bcf96e5a536cb13615f9397708201a6af19"
+      },
+      {
+        "path": "project-media/r72/mercedes-06-15949f6209da.webp",
+        "sha256": "15949f6209dab9b1091401a18da96edcd76b05f2eee1f52459cdb64f28b57d40"
+      },
+      {
+        "path": "project-media/r72/mercedes-07-e103108e892c.webp",
+        "sha256": "e103108e892c660d9f3342f6bdb03e20182b4ee6bc0c2970d3d0d05557fecbf5"
+      },
+      {
+        "path": "project-media/r72/mercedes-08-24a8692f57a6.webp",
+        "sha256": "24a8692f57a624ed37107728e231f39e23bc566dfbf649776693483b8cb1676d"
+      },
+      {
+        "path": "project-media/r72/mercedes-09-5452477ea6fd.webp",
+        "sha256": "5452477ea6fd23bab185445f1de0d2ee57c550044d6124980e632e559e717eaf"
+      },
+      {
+        "path": "project-media/r72/mercedes-10-1c53c1e80a45.webp",
+        "sha256": "1c53c1e80a456de7f6eb78ff8cb4c9eb4c15b56ddad876022e5bef713082a627"
+      },
+      {
+        "path": "project-media/r72/mercedes-11-7b49c5e6f846.webp",
+        "sha256": "7b49c5e6f84646123f1e26b7af0f15ec98e48f829efc9928a907e3430bbb98b4"
+      },
+      {
+        "path": "project-media/r72/mercedes-12-557f8760ad70.webp",
+        "sha256": "557f8760ad70473ebb809544e1ef5654200e63c1adc40ce17bbfe11b2a4777e7"
+      },
+      {
+        "path": "project-media/r72/mercedes-13-2fcd83f5f4dd.webp",
+        "sha256": "2fcd83f5f4ddd02dc03c1d202637ae1727c48adfb6e18ef42eb70586712a2986"
+      },
+      {
+        "path": "project-media/r72/mercedes-14-c1287a16e06c.webp",
+        "sha256": "c1287a16e06ca1e1f9f81a5714af22080e53a443cc0bdc64d7c148f2e1b44153"
+      },
+      {
+        "path": "project-media/r72/mercedes-15-63465611776d.webp",
+        "sha256": "63465611776d2353444a2d87f3e30574106ec5320f865b56c08b61d159712823"
+      },
+      {
+        "path": "project-media/r72/mercedes-16-ce928a830a73.webp",
+        "sha256": "ce928a830a735d86eee66f4a75f679d5b9e74fe8d94c78b07ff8be11f8c55369"
+      },
+      {
+        "path": "project-media/r72/mercedes-17-c0dac628bddd.webp",
+        "sha256": "c0dac628bddd18108325090b785a695c9acad1541a8828567ba88c22a4f857c7"
+      },
+      {
+        "path": "project-media/r72/mercedes-18-1b38a998edda.webp",
+        "sha256": "1b38a998edda987b9386e077f694f30cee03c5733975b7cfd11c0841ca73ad12"
+      },
+      {
+        "path": "project-media/r72/mercedes-19-09778472749d.webp",
+        "sha256": "09778472749d495393392763426b8fd9476789a099eaa8595b73ab4724813a4b"
+      },
+      {
+        "path": "project-media/r72/mercedes-20-af162328419f.webp",
+        "sha256": "af162328419f3b3bda9874490affc9d47283934dba8fb9a52b697284565858c6"
+      },
+      {
+        "path": "project-media/r72/mercedes-21-f6e7d451198b.webp",
+        "sha256": "f6e7d451198b4128a33d5177864faac4e88846fecde364389d64f8e70fcd5b78"
+      },
+      {
+        "path": "project-media/r72/range-rover-01-b3e1c5b4e619.webp",
+        "sha256": "b3e1c5b4e619ced38ffc39ca1e7ebfc73419c8db21c1eddcc842f6e3103e23b9"
+      },
+      {
+        "path": "project-media/r72/range-rover-02-5e53b2102ddd.webp",
+        "sha256": "5e53b2102ddd9f04d122888562ee427e9b926044907ddcdc5905a04dcac5c755"
+      },
+      {
+        "path": "project-media/r72/range-rover-03-5b6c4c0db6cf.webp",
+        "sha256": "5b6c4c0db6cfbad1aab3f5bdf07abbf3789ede1424d5d1d08a83d8194dd4d909"
+      },
+      {
+        "path": "project-media/r72/range-rover-04-63af8ab00753.webp",
+        "sha256": "63af8ab00753c311d6f191881597f163d3a33956b301c53f0757d7e14cc0d9d0"
+      },
+      {
+        "path": "project-media/r72/range-rover-05-e8463cd48ed3.webp",
+        "sha256": "e8463cd48ed341b26de3c6fdde3c324eb8b03bd469f15f483b3262836d73c58c"
+      },
+      {
+        "path": "project-media/r72/range-rover-06-99235aeac63b.webp",
+        "sha256": "99235aeac63b4bea4b36631962e9d6ea6b294ecc0062712b5426ca62787a498a"
+      },
+      {
+        "path": "project-media/r72/range-rover-07-915cceca558f.webp",
+        "sha256": "915cceca558fced7a34b0f89d73eb814c4c3acc1efac7c0bbbc3df9d402dec37"
+      },
+      {
+        "path": "project-media/r72/range-rover-08-4e4a1271e8e7.webp",
+        "sha256": "4e4a1271e8e7f09fcccfdd14b76523a48c8842b1e0c3f2c01433d355f20a240b"
+      },
+      {
+        "path": "project-media/r72/range-rover-09-42687ac340b3.webp",
+        "sha256": "42687ac340b33562ddd75d12c3062e50afc2fb80beec89a6188c36b18c3cefef"
+      },
+      {
+        "path": "project-media/r72/range-rover-10-281240cecca3.webp",
+        "sha256": "281240cecca35024bb25fd453ad48851327e30cf0280b9765a05d1918681a96f"
+      },
+      {
+        "path": "project-media/r72/range-rover-11-bd66ffe8fb92.webp",
+        "sha256": "bd66ffe8fb927e00d6414ff883fb12242dc2c1efad22ceed29e44fc265234d32"
+      },
+      {
+        "path": "project-media/r72/range-rover-12-1328fb07479e.webp",
+        "sha256": "1328fb07479ed19dc0103bcefd219cfa22a0d962c0848d1a8a7466bf60577155"
+      },
+      {
+        "path": "project-media/r72/range-rover-13-719c875e6393.webp",
+        "sha256": "719c875e63935196260e0a5c3032742179be3b4474aa3b7cd8c722d42d1ffbdd"
+      },
+      {
+        "path": "project-media/r72/range-rover-14-749d7bd70152.webp",
+        "sha256": "749d7bd70152bc6f2972daa1fa6cd355d768b3fabaf96995ff4be7c32fa6c8cc"
+      },
+      {
+        "path": "project-media/r72/range-rover-15-ca0862f9209d.webp",
+        "sha256": "ca0862f9209db25b14e871953d023f4fd00689cd306039201624fbeffe47636f"
+      },
+      {
+        "path": "project-media/r72/range-rover-16-1dcc22e74707.webp",
+        "sha256": "1dcc22e7470709d57cf62923a8ff6db318d36a19f1ac553333ee6cbb80e67829"
+      },
+      {
+        "path": "project-media/r72/range-rover-17-e6eba3e562ca.webp",
+        "sha256": "e6eba3e562cac00a73a0838bc9d2b865dfc61c10e749960554a663712c7dceec"
+      },
+      {
+        "path": "project-media/r72/range-rover-18-b34a47d080fd.webp",
+        "sha256": "b34a47d080fd3d4dfd69de0c6983f56decb7cdf2a65c75c076f2aa93c4dae59c"
+      },
+      {
+        "path": "project-media/r72/voyah-01-d7961fcfd0a1.webp",
+        "sha256": "d7961fcfd0a1518669a103b0d557969a32f5d0c419b2c789767969abc28304ec"
+      },
+      {
+        "path": "project-media/r72/voyah-02-20eb69b2cfef.webp",
+        "sha256": "20eb69b2cfef6ba464e956b6862041813f4661eb1a7a8ae7071cfd7145eac493"
+      },
+      {
+        "path": "project-media/r72/voyah-03-80e63dfe5654.webp",
+        "sha256": "80e63dfe565478632c0c78eed0bcaffe7a5f289927957cdb8efc09a70b9c949f"
+      },
+      {
+        "path": "project-media/r72/voyah-04-5fa48358be3d.webp",
+        "sha256": "5fa48358be3daf64f9c5be85fa18e4485e9b3a5bf710d7a10cebe9b2bd79704b"
+      },
+      {
+        "path": "project-media/r72/voyah-05-9f3b91fcdafb.webp",
+        "sha256": "9f3b91fcdafb21b3d2f9eaa9166eadc5d7cc9f756f9abef58e9c9334537b03fb"
+      },
+      {
+        "path": "project-media/r72/voyah-06-c1caf4825247.webp",
+        "sha256": "c1caf4825247523b0df7b7c4ea5667f58951135c7643bb99680ac9cd472cc673"
+      },
+      {
+        "path": "project-media/r72/voyah-07-5388a73c9d8e.webp",
+        "sha256": "5388a73c9d8eb4ed518b710b05179cec3e80b3dd4ef9c98ae62e985ad1298dfd"
+      },
+      {
+        "path": "project-media/r72/voyah-08-ea640df0964f.webp",
+        "sha256": "ea640df0964f96915e3ca36de113a1e6d873ef7959a2b3941eb5aa3568d6e393"
+      },
+      {
+        "path": "project-media/r72/voyah-09-937a4f295028.webp",
+        "sha256": "937a4f295028236fd0c64e1415172b3cb7bfd4ff04ab509b3d2b213dd4fdf292"
+      },
+      {
+        "path": "project-media/r72/voyah-10-026e7e937053.webp",
+        "sha256": "026e7e937053371086a759531998e33514051edc0b100f83a6a07dbb94651223"
+      },
+      {
+        "path": "project-media/r72/voyah-11-09ed7e5073f4.webp",
+        "sha256": "09ed7e5073f4eb636031be3986072e14711d4c685a09a5c8a914f1d2bb66783b"
+      },
+      {
+        "path": "project-media/r72/voyah-12-143abc751599.webp",
+        "sha256": "143abc7515995ae466931ce5c368de15a9e423c72c8bcefd419e105b96791f1c"
+      },
+      {
+        "path": "project-media/r72/voyah-13-68e89892c708.webp",
+        "sha256": "68e89892c708bbccbfac6dcbc1d55fe561eef748243fa943a0afbdc1bfc0d24a"
+      },
+      {
+        "path": "project-media/r72/voyah-14-3b4af8568693.webp",
+        "sha256": "3b4af8568693a549776987c56c1cd5c3cc4df1ed419595a402f39e566bb9b499"
+      }
+    ],
+    "original_photos_archive": "AVTOLAB77-v73-original-photos.zip",
+    "original_photos_sha256": "7353cb7fe6ab06125e9c619926bb119c7fb54f8d5dd8f7f87e7e75f170dbcc88",
+    "archive_sha256": "9b0dd74198f1d2cf150137fa978d6bf59e573d7018ee8aa50ddf1678c36d830b"
   }
 ]
