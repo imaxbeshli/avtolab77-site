@@ -592,5 +592,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v70.zip",
     "archive_sha256": "2a89599af98cdcc880bbb3de38b5c79e080ef7ef48c2f1f99c78fc786f5b9469"
+  },
+  {
+    "version": "v71",
+    "commit": "a38f3712302e5bce5545e6f63c2f4dbc735b56b0",
+    "description": "Открытие главной страницы сверху; плавный возврат к услугам сохранён",
+    "index_sha256": "b69916e25afd5d2129d2cacdd27195ab0e01e33ee8c08eaf74b12964352e7dea",
+    "source_included": true,
+    "archive": "AVTOLAB77-v71.zip",
+    "archive_sha256": "fcfbcf9111513ff5df6b0bfa5dd7d6395580be48a250c6140d5f463f9a4cabff"
   }
 ]
