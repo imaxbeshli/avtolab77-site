@@ -583,5 +583,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v69.zip",
     "archive_sha256": "97d4b71879a690a90a2b4bccad86abc0babfc5c76a4122cd3deb7980769a6325"
+  },
+  {
+    "version": "v70",
+    "commit": "b1dc09d3c52022602f2b2c6e1446126e5d9eb3e1",
+    "description": "Полные галереи услуг, мягкая цветокоррекция и плавные переходы с восстановлением прокрутки",
+    "index_sha256": "6d363af01a3133405e2bac62b284bfc50ad3cfb7ab20ec37f5a135deb89f7502",
+    "source_included": true,
+    "archive": "AVTOLAB77-v70.zip",
+    "archive_sha256": "2a89599af98cdcc880bbb3de38b5c79e080ef7ef48c2f1f99c78fc786f5b9469"
   }
 ]
