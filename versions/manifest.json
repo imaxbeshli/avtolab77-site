@@ -547,5 +547,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v65.zip",
     "archive_sha256": "73a2b99966759d7700cfb982fe69c7ad7e3f12845a509b080b524eb134f6843a"
+  },
+  {
+    "version": "v66",
+    "commit": "b1474d0dce7931566191db773f4e8265ebc6cc4f",
+    "description": "Точные SVG-значки соцсетей и исправленные пропорции YouTube",
+    "index_sha256": "d93c5b55567f5dd57fa6d448bdb0f9fa5a6e481d24e4c0b1adc992dc9936bc33",
+    "source_included": true,
+    "archive": "AVTOLAB77-v66.zip",
+    "archive_sha256": "250725410cdc70d925876743fbf8b8419174a1a2807a4e0f65c77b2d75180369"
   }
 ]
