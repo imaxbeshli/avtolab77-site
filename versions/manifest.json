@@ -574,5 +574,14 @@
     "source_included": true,
     "archive": "AVTOLAB77-v68.zip",
     "archive_sha256": "bdbb7ce77474038bd785d876efe7fa1f150555b83dddd653e644f13a2d84fb9a"
+  },
+  {
+    "version": "v69",
+    "commit": "43d86833b1d20c051bddd8f53ed3c05ab0d13b96",
+    "description": "Шесть услуг автостайлинга: новые главные иллюстрации, настоящие фотографии работ и галереи без полосы прокрутки",
+    "index_sha256": "efe1d070130d67232bd36129dde55f10af0775d81c25270ef644909a3ee86673",
+    "source_included": true,
+    "archive": "AVTOLAB77-v69.zip",
+    "archive_sha256": "97d4b71879a690a90a2b4bccad86abc0babfc5c76a4122cd3deb7980769a6325"
   }
 ]
